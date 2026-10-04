@@ -1,0 +1,245 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "template": "driving_licence_template_v1_normalized",
+    "document": "driving_licence_altered_01_normalized",
+    "regions": {
+        "flag": {
+            "type": "logo",
+            "symbol_difference_score": 30.2299,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 43.2367,
+                    "document_value": 37.4852,
+                    "difference_percent": 13.3024,
+                    "weight": 0.2
+                },
+                "component_count": {
+                    "template_value": 8.0,
+                    "document_value": 2.0,
+                    "difference_percent": 75.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 1014.375,
+                    "document_value": 3711.0,
+                    "difference_percent": 100.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 51.5385,
+                    "document_value": 46.5089,
+                    "difference_percent": 9.7589,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 52.071,
+                    "document_value": 50.0,
+                    "difference_percent": 3.9773,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 59.5,
+                    "document_value": 52.0,
+                    "difference_percent": 12.605,
+                    "weight": 0.2
+                }
+            }
+        },
+        "government_logo": {
+            "type": "logo",
+            "symbol_difference_score": 14.6535,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 28.8991,
+                    "document_value": 33.1747,
+                    "difference_percent": 14.7949,
+                    "weight": 0.2
+                },
+                "component_count": {
+                    "template_value": 1.0,
+                    "document_value": 1.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 4424.0,
+                    "document_value": 5040.0,
+                    "difference_percent": 13.9241,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 38.2898,
+                    "document_value": 43.6213,
+                    "difference_percent": 13.9241,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 37.6147,
+                    "document_value": 51.3761,
+                    "difference_percent": 36.5852,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 49.5283,
+                    "document_value": 52.8302,
+                    "difference_percent": 6.6667,
+                    "weight": 0.2
+                }
+            }
+        },
+        "holder_signature": {
+            "type": "signature",
+            "symbol_difference_score": 20.4762,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 18.1557,
+                    "document_value": 11.9085,
+                    "difference_percent": 34.409,
+                    "weight": 0.25
+                },
+                "component_count": {
+                    "template_value": 7.0,
+                    "document_value": 8.0,
+                    "difference_percent": 14.2857,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 1120.2857,
+                    "document_value": 796.5,
+                    "difference_percent": 28.9021,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 56.7341,
+                    "document_value": 63.8461,
+                    "difference_percent": 12.5357,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 35.6164,
+                    "document_value": 41.5525,
+                    "difference_percent": 16.6668,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 60.177,
+                    "document_value": 55.7522,
+                    "difference_percent": 7.353,
+                    "weight": 0.15
+                }
+            }
+        },
+        "security_mark": {
+            "type": "security_feature",
+            "symbol_difference_score": 52.5173,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 35.8636,
+                    "document_value": 27.6321,
+                    "difference_percent": 22.9522,
+                    "weight": 0.2
+                },
+                "component_count": {
+                    "template_value": 4.0,
+                    "document_value": 6.0,
+                    "difference_percent": 50.0,
+                    "weight": 0.15
+                },
+                "mean_component_area": {
+                    "template_value": 752.5,
+                    "document_value": 2129.1667,
+                    "difference_percent": 100.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 12.1424,
+                    "document_value": 88.1657,
+                    "difference_percent": 100.0,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 54.4379,
+                    "document_value": 44.0828,
+                    "difference_percent": 19.0219,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 60.355,
+                    "document_value": 50.0,
+                    "difference_percent": 17.1568,
+                    "weight": 0.15
+                }
+            }
+        },
+        "official_signature": {
+            "type": "signature",
+            "symbol_difference_score": 34.7806,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 21.6237,
+                    "document_value": 16.4832,
+                    "difference_percent": 23.7725,
+                    "weight": 0.25
+                },
+                "component_count": {
+                    "template_value": 5.0,
+                    "document_value": 23.0,
+                    "difference_percent": 100.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 2302.2,
+                    "document_value": 293.6522,
+                    "difference_percent": 87.2447,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 80.0605,
+                    "document_value": 92.1909,
+                    "difference_percent": 15.1515,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 48.1172,
+                    "document_value": 47.6987,
+                    "difference_percent": 0.8698,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 58.4034,
+                    "document_value": 48.3193,
+                    "difference_percent": 17.2663,
+                    "weight": 0.15
+                }
+            }
+        }
+    },
+    "ranked_candidate_regions": [
+        {
+            "region": "security_mark",
+            "type": "security_feature",
+            "symbol_difference_score": 52.5173
+        },
+        {
+            "region": "official_signature",
+            "type": "signature",
+            "symbol_difference_score": 34.7806
+        },
+        {
+            "region": "flag",
+            "type": "logo",
+            "symbol_difference_score": 30.2299
+        },
+        {
+            "region": "holder_signature",
+            "type": "signature",
+            "symbol_difference_score": 20.4762
+        },
+        {
+            "region": "government_logo",
+            "type": "logo",
+            "symbol_difference_score": 14.6535
+        }
+    ],
+    "average_symbol_difference_score": 30.5315
+}

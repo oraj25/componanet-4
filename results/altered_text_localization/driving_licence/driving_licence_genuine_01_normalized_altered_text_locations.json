@@ -1,0 +1,45 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "template": "driving_licence_template_v1_normalized",
+    "document": "driving_licence_genuine_01_normalized",
+    "candidate_threshold": 30.0,
+    "regions": {
+        "licence_number": {
+            "total_blocks": 90,
+            "suspicious_blocks": 0,
+            "locations": []
+        },
+        "nic_number": {
+            "total_blocks": 80,
+            "suspicious_blocks": 0,
+            "locations": []
+        },
+        "name": {
+            "total_blocks": 120,
+            "suspicious_blocks": 0,
+            "locations": []
+        },
+        "address": {
+            "total_blocks": 135,
+            "suspicious_blocks": 0,
+            "locations": []
+        },
+        "date_of_birth": {
+            "total_blocks": 72,
+            "suspicious_blocks": 0,
+            "locations": []
+        },
+        "date_field": {
+            "total_blocks": 72,
+            "suspicious_blocks": 0,
+            "locations": []
+        },
+        "blood_group": {
+            "total_blocks": 76,
+            "suspicious_blocks": 0,
+            "locations": []
+        }
+    },
+    "suspicious_areas": [],
+    "total_suspicious_areas": 0
+}

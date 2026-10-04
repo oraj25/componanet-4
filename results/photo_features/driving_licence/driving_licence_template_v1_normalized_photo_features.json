@@ -1,0 +1,21 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "document": "driving_licence_template_v1_normalized",
+    "source_image": "driving_licence_template_v1_normalized.png",
+    "photo_region": {
+        "features": {
+            "width": 268,
+            "height": 307,
+            "border_size": 32,
+            "border_edge_ratio": 4.9781,
+            "border_mean_strength": 19.37,
+            "left_edge_ratio": 0.0,
+            "right_edge_ratio": 5.4786,
+            "top_edge_ratio": 8.6466,
+            "bottom_edge_ratio": 7.0216,
+            "border_side_stddev": 3.2513,
+            "edge_threshold": 54.0925
+        },
+        "preview": "photo_border_analysis.png"
+    }
+}

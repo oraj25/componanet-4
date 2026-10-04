@@ -1,0 +1,159 @@
+{
+    "documentType": "National_Identity_Card",
+    "fullText": "DRIVING LICENCE\nDEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA\n4c.200229900760\n5. B6200049\nSL\n1,2. OMAL RAJ\nWIJETUNGA\n8. 58/25B SOMA THALAGALA MAWATHA\nGANGODAWI LA NUGEGODA\n03. 25.10.2002\n4a. 18. 12.2025\nBlood Group 0+\n12.50\nKamal Amarasinghe\n4b. Commissioner General of MotorTraffic\n7. Holder s Signature",
+    "lines": [
+        {
+            "text": "DRIVING LICENCE",
+            "boundingBox": {
+                "left": 666,
+                "top": 346,
+                "right": 718,
+                "bottom": 728
+            }
+        },
+        {
+            "text": "DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+            "boundingBox": {
+                "left": 714,
+                "top": 262,
+                "right": 758,
+                "bottom": 812
+            }
+        },
+        {
+            "text": "4c.200229900760",
+            "boundingBox": {
+                "left": 757,
+                "top": 37,
+                "right": 799,
+                "bottom": 327
+            }
+        },
+        {
+            "text": "5. B6200049",
+            "boundingBox": {
+                "left": 776,
+                "top": 585,
+                "right": 814,
+                "bottom": 769
+            }
+        },
+        {
+            "text": "SL",
+            "boundingBox": {
+                "left": 816,
+                "top": 69,
+                "right": 893,
+                "bottom": 150
+            }
+        },
+        {
+            "text": "1,2. OMAL RAJ",
+            "boundingBox": {
+                "left": 827,
+                "top": 613,
+                "right": 858,
+                "bottom": 796
+            }
+        },
+        {
+            "text": "WIJETUNGA",
+            "boundingBox": {
+                "left": 858,
+                "top": 590,
+                "right": 886,
+                "bottom": 730
+            }
+        },
+        {
+            "text": "8. 58/25B SOMA THALAGALA MAWATHA",
+            "boundingBox": {
+                "left": 897,
+                "top": 425,
+                "right": 925,
+                "bottom": 766
+            }
+        },
+        {
+            "text": "GANGODAWI LA NUGEGODA",
+            "boundingBox": {
+                "left": 923,
+                "top": 512,
+                "right": 948,
+                "bottom": 728
+            }
+        },
+        {
+            "text": "03. 25.10.2002",
+            "boundingBox": {
+                "left": 987,
+                "top": 577,
+                "right": 1019,
+                "bottom": 782
+            }
+        },
+        {
+            "text": "4a. 18. 12.2025",
+            "boundingBox": {
+                "left": 1064,
+                "top": 576,
+                "right": 1096,
+                "bottom": 772
+            }
+        },
+        {
+            "text": "Blood Group 0+",
+            "boundingBox": {
+                "left": 1140,
+                "top": 515,
+                "right": 1166,
+                "bottom": 717
+            }
+        },
+        {
+            "text": "12.50",
+            "boundingBox": {
+                "left": 1204,
+                "top": 686,
+                "right": 1235,
+                "bottom": 770
+            }
+        },
+        {
+            "text": "Kamal Amarasinghe",
+            "boundingBox": {
+                "left": 1265,
+                "top": 137,
+                "right": 1285,
+                "bottom": 303
+            }
+        },
+        {
+            "text": "4b. Commissioner General of MotorTraffic",
+            "boundingBox": {
+                "left": 1281,
+                "top": 34,
+                "right": 1302,
+                "bottom": 395
+            }
+        },
+        {
+            "text": "7. Holder s Signature",
+            "boundingBox": {
+                "left": 1285,
+                "top": 870,
+                "right": 1309,
+                "bottom": 1033
+            }
+        }
+    ],
+    "fields": {
+        "nicNumber": "200229900760",
+        "licenceNumber": "B6200049",
+        "bloodGroup": null,
+        "possibleName": null,
+        "dates": [
+            "25.10.2002"
+        ]
+    }
+}

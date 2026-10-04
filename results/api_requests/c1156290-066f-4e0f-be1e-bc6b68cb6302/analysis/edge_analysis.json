@@ -1,0 +1,392 @@
+{
+    "flag": {
+        "type": "logo",
+        "edge_difference_score": 65.1588,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 15.7766,
+                "document_value": 2.8413,
+                "difference_percent": 81.9904,
+                "weight": 0.3
+            },
+            "border_edge_ratio": {
+                "template_value": 6.2038,
+                "document_value": 4.7809,
+                "difference_percent": 22.9359,
+                "weight": 0.25
+            },
+            "centre_edge_ratio": {
+                "template_value": 18.394,
+                "document_value": 2.3109,
+                "difference_percent": 87.4367,
+                "weight": 0.25
+            },
+            "mean_edge_strength": {
+                "template_value": 136.1189,
+                "document_value": 47.8556,
+                "difference_percent": 64.8428,
+                "weight": 0.2
+            }
+        }
+    },
+    "government_logo": {
+        "type": "logo",
+        "edge_difference_score": 39.3264,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 12.1136,
+                "document_value": 14.7106,
+                "difference_percent": 21.4387,
+                "weight": 0.3
+            },
+            "border_edge_ratio": {
+                "template_value": 0.0,
+                "document_value": 14.5033,
+                "difference_percent": 100,
+                "weight": 0.25
+            },
+            "centre_edge_ratio": {
+                "template_value": 16.1051,
+                "document_value": 14.779,
+                "difference_percent": 8.234,
+                "weight": 0.25
+            },
+            "mean_edge_strength": {
+                "template_value": 106.7005,
+                "document_value": 75.5639,
+                "difference_percent": 29.1813,
+                "weight": 0.2
+            }
+        }
+    },
+    "photo": {
+        "type": "photo",
+        "edge_difference_score": 59.6667,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 6.2739,
+                "document_value": 8.4383,
+                "difference_percent": 34.4985,
+                "weight": 0.15
+            },
+            "border_edge_ratio": {
+                "template_value": 2.1092,
+                "document_value": 8.9266,
+                "difference_percent": 100,
+                "weight": 0.5
+            },
+            "centre_edge_ratio": {
+                "template_value": 7.7509,
+                "document_value": 8.2652,
+                "difference_percent": 6.6354,
+                "weight": 0.15
+            },
+            "mean_edge_strength": {
+                "template_value": 125.2828,
+                "document_value": 103.3796,
+                "difference_percent": 17.483,
+                "weight": 0.2
+            }
+        }
+    },
+    "licence_number": {
+        "type": "text",
+        "edge_difference_score": 63.2116,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 11.0967,
+                "document_value": 7.0247,
+                "difference_percent": 36.6956,
+                "weight": 0.35
+            },
+            "border_edge_ratio": {
+                "template_value": 7.7778,
+                "document_value": 23.994,
+                "difference_percent": 100,
+                "weight": 0.15
+            },
+            "centre_edge_ratio": {
+                "template_value": 11.8256,
+                "document_value": 3.2977,
+                "difference_percent": 72.1139,
+                "weight": 0.3
+            },
+            "mean_edge_strength": {
+                "template_value": 389.5422,
+                "document_value": 122.0448,
+                "difference_percent": 68.6697,
+                "weight": 0.2
+            }
+        }
+    },
+    "nic_number": {
+        "type": "text",
+        "edge_difference_score": 26.4272,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 13.0351,
+                "document_value": 14.1481,
+                "difference_percent": 8.5385,
+                "weight": 0.35
+            },
+            "border_edge_ratio": {
+                "template_value": 1.2226,
+                "document_value": 11.0031,
+                "difference_percent": 100,
+                "weight": 0.15
+            },
+            "centre_edge_ratio": {
+                "template_value": 15.4665,
+                "document_value": 14.7955,
+                "difference_percent": 4.3384,
+                "weight": 0.3
+            },
+            "mean_edge_strength": {
+                "template_value": 182.7933,
+                "document_value": 117.5618,
+                "difference_percent": 35.6859,
+                "weight": 0.2
+            }
+        }
+    },
+    "name": {
+        "type": "text",
+        "edge_difference_score": 39.8508,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 13.5128,
+                "document_value": 16.5294,
+                "difference_percent": 22.324,
+                "weight": 0.35
+            },
+            "border_edge_ratio": {
+                "template_value": 23.508,
+                "document_value": 13.4852,
+                "difference_percent": 42.6357,
+                "weight": 0.15
+            },
+            "centre_edge_ratio": {
+                "template_value": 11.6099,
+                "document_value": 17.109,
+                "difference_percent": 47.3656,
+                "weight": 0.3
+            },
+            "mean_edge_strength": {
+                "template_value": 353.6894,
+                "document_value": 151.5139,
+                "difference_percent": 57.1619,
+                "weight": 0.2
+            }
+        }
+    },
+    "address": {
+        "type": "text",
+        "edge_difference_score": 31.5896,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 12.6317,
+                "document_value": 13.0185,
+                "difference_percent": 3.0621,
+                "weight": 0.35
+            },
+            "border_edge_ratio": {
+                "template_value": 0.0,
+                "document_value": 17.3975,
+                "difference_percent": 100,
+                "weight": 0.15
+            },
+            "centre_edge_ratio": {
+                "template_value": 14.9895,
+                "document_value": 12.2012,
+                "difference_percent": 18.6017,
+                "weight": 0.3
+            },
+            "mean_edge_strength": {
+                "template_value": 279.7047,
+                "document_value": 140.729,
+                "difference_percent": 49.6866,
+                "weight": 0.2
+            }
+        }
+    },
+    "date_of_birth": {
+        "type": "text",
+        "edge_difference_score": 62.78,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 8.7729,
+                "document_value": 14.469,
+                "difference_percent": 64.9284,
+                "weight": 0.35
+            },
+            "border_edge_ratio": {
+                "template_value": 0.0,
+                "document_value": 9.9544,
+                "difference_percent": 100,
+                "weight": 0.15
+            },
+            "centre_edge_ratio": {
+                "template_value": 10.3985,
+                "document_value": 15.3055,
+                "difference_percent": 47.1895,
+                "weight": 0.3
+            },
+            "mean_edge_strength": {
+                "template_value": 279.4595,
+                "document_value": 127.1786,
+                "difference_percent": 54.4912,
+                "weight": 0.2
+            }
+        }
+    },
+    "date_field": {
+        "type": "text",
+        "edge_difference_score": 34.7172,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 9.1597,
+                "document_value": 8.1623,
+                "difference_percent": 10.889,
+                "weight": 0.35
+            },
+            "border_edge_ratio": {
+                "template_value": 0.0,
+                "document_value": 10.8776,
+                "difference_percent": 100,
+                "weight": 0.15
+            },
+            "centre_edge_ratio": {
+                "template_value": 10.8457,
+                "document_value": 7.6625,
+                "difference_percent": 29.3499,
+                "weight": 0.3
+            },
+            "mean_edge_strength": {
+                "template_value": 208.3234,
+                "document_value": 134.357,
+                "difference_percent": 35.5056,
+                "weight": 0.2
+            }
+        }
+    },
+    "blood_group": {
+        "type": "text",
+        "edge_difference_score": 33.8709,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 9.5435,
+                "document_value": 8.1691,
+                "difference_percent": 14.4014,
+                "weight": 0.35
+            },
+            "border_edge_ratio": {
+                "template_value": 0.0,
+                "document_value": 11.5,
+                "difference_percent": 100,
+                "weight": 0.15
+            },
+            "centre_edge_ratio": {
+                "template_value": 11.2881,
+                "document_value": 7.5602,
+                "difference_percent": 33.025,
+                "weight": 0.3
+            },
+            "mean_edge_strength": {
+                "template_value": 165.2734,
+                "document_value": 132.8558,
+                "difference_percent": 19.6145,
+                "weight": 0.2
+            }
+        }
+    },
+    "holder_signature": {
+        "type": "signature",
+        "edge_difference_score": 42.5783,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 12.1476,
+                "document_value": 7.5601,
+                "difference_percent": 37.7647,
+                "weight": 0.2
+            },
+            "border_edge_ratio": {
+                "template_value": 5.3686,
+                "document_value": 6.4704,
+                "difference_percent": 20.523,
+                "weight": 0.35
+            },
+            "centre_edge_ratio": {
+                "template_value": 13.9199,
+                "document_value": 7.845,
+                "difference_percent": 43.6418,
+                "weight": 0.25
+            },
+            "mean_edge_strength": {
+                "template_value": 102.2753,
+                "document_value": 188.8608,
+                "difference_percent": 84.6592,
+                "weight": 0.2
+            }
+        }
+    },
+    "security_mark": {
+        "type": "security_feature",
+        "edge_difference_score": 73.879,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 8.4191,
+                "document_value": 13.8513,
+                "difference_percent": 64.5223,
+                "weight": 0.25
+            },
+            "border_edge_ratio": {
+                "template_value": 3.6963,
+                "document_value": 14.6728,
+                "difference_percent": 100,
+                "weight": 0.3
+            },
+            "centre_edge_ratio": {
+                "template_value": 10.3214,
+                "document_value": 13.5204,
+                "difference_percent": 30.9939,
+                "weight": 0.25
+            },
+            "mean_edge_strength": {
+                "template_value": 59.3869,
+                "document_value": 142.9661,
+                "difference_percent": 100,
+                "weight": 0.2
+            }
+        }
+    },
+    "official_signature": {
+        "type": "signature",
+        "edge_difference_score": 7.2075,
+        "feature_comparisons": {
+            "edge_ratio": {
+                "template_value": 13.4733,
+                "document_value": 13.5634,
+                "difference_percent": 0.6687,
+                "weight": 0.2
+            },
+            "border_edge_ratio": {
+                "template_value": 11.789,
+                "document_value": 11.4253,
+                "difference_percent": 3.0851,
+                "weight": 0.35
+            },
+            "centre_edge_ratio": {
+                "template_value": 13.9431,
+                "document_value": 14.1599,
+                "difference_percent": 1.5549,
+                "weight": 0.25
+            },
+            "mean_edge_strength": {
+                "template_value": 116.9982,
+                "document_value": 84.2081,
+                "difference_percent": 28.0262,
+                "weight": 0.2
+            }
+        }
+    }
+}

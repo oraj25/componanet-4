@@ -1,0 +1,78 @@
+{
+    "document_type": "NIC",
+    "source_image": "nic_genuine_01_normalized.png",
+    "source_width": 1044,
+    "source_height": 633,
+    "regions": {
+        "government_logo": {
+            "type": "logo",
+            "x1": 63,
+            "y1": 19,
+            "x2": 230,
+            "y2": 133,
+            "width": 167,
+            "height": 114,
+            "file": "government_logo.png"
+        },
+        "photo": {
+            "type": "photo",
+            "x1": 42,
+            "y1": 171,
+            "x2": 376,
+            "y2": 525,
+            "width": 334,
+            "height": 354,
+            "file": "photo.png"
+        },
+        "nic_number": {
+            "type": "text",
+            "x1": 564,
+            "y1": 114,
+            "x2": 971,
+            "y2": 196,
+            "width": 407,
+            "height": 82,
+            "file": "nic_number.png"
+        },
+        "name": {
+            "type": "text",
+            "x1": 397,
+            "y1": 348,
+            "x2": 919,
+            "y2": 456,
+            "width": 522,
+            "height": 108,
+            "file": "name.png"
+        },
+        "sex": {
+            "type": "text",
+            "x1": 397,
+            "y1": 443,
+            "x2": 981,
+            "y2": 519,
+            "width": 584,
+            "height": 76,
+            "file": "sex.png"
+        },
+        "date_of_birth": {
+            "type": "text",
+            "x1": 407,
+            "y1": 500,
+            "x2": 981,
+            "y2": 570,
+            "width": 574,
+            "height": 70,
+            "file": "date_of_birth.png"
+        },
+        "holder_signature": {
+            "type": "signature",
+            "x1": 679,
+            "y1": 551,
+            "x2": 992,
+            "y2": 620,
+            "width": 313,
+            "height": 69,
+            "file": "holder_signature.png"
+        }
+    }
+}

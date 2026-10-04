@@ -1,0 +1,23 @@
+{
+    "document_type": "NIC",
+    "status": "REVIEW",
+    "issue_count": 1,
+    "image_width": 1920,
+    "image_height": 1080,
+    "ocr_text_present": true,
+    "ocr_line_count": 8,
+    "validated_fields": {
+        "nic_number": "200229900760",
+        "licence_number": null,
+        "possible_name": "OMAL RAJ WIJETUNGA",
+        "dates": [],
+        "blood_group": null
+    },
+    "issues": [
+        {
+            "code": "DATE_MISSING",
+            "field": "dates",
+            "message": "No date candidate was detected on the NIC."
+        }
+    ]
+}

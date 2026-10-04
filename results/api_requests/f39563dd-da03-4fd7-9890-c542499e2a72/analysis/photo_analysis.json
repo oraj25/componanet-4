@@ -1,0 +1,44 @@
+{
+    "document_type": "NIC",
+    "template": "approved_template",
+    "document": "submitted_document",
+    "photo_border_difference_score": 41.7212,
+    "feature_comparisons": {
+        "border_edge_ratio": {
+            "template_value": 9.8164,
+            "document_value": 7.2798,
+            "difference_percent": 25.8404,
+            "weight": 0.35
+        },
+        "border_mean_strength": {
+            "template_value": 27.0934,
+            "document_value": 31.2302,
+            "difference_percent": 15.2687,
+            "weight": 0.25
+        },
+        "left_edge_ratio": {
+            "template_value": 21.3287,
+            "document_value": 0.0583,
+            "difference_percent": 99.7267,
+            "weight": 0.1
+        },
+        "right_edge_ratio": {
+            "template_value": 1.8211,
+            "document_value": 19.0195,
+            "difference_percent": 100.0,
+            "weight": 0.1
+        },
+        "top_edge_ratio": {
+            "template_value": 7.8931,
+            "document_value": 2.6491,
+            "difference_percent": 66.4378,
+            "weight": 0.1
+        },
+        "bottom_edge_ratio": {
+            "template_value": 8.5032,
+            "document_value": 6.5956,
+            "difference_percent": 22.4339,
+            "weight": 0.1
+        }
+    }
+}

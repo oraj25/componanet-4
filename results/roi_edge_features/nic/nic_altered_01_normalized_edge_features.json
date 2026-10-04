@@ -1,0 +1,140 @@
+{
+    "document_type": "NIC",
+    "document": "nic_altered_01_normalized",
+    "source_image": "nic_altered_01_normalized.png",
+    "regions": {
+        "government_logo": {
+            "type": "logo",
+            "features": {
+                "width": 167,
+                "height": 114,
+                "border_thickness": 9,
+                "edge_count": 2622,
+                "edge_ratio": 14.1883,
+                "border_edge_ratio": 5.9148,
+                "centre_edge_ratio": 16.6037,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 15.4018,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 9.3939,
+                "mean_edge_strength": 178.135,
+                "edge_threshold": 113.4817
+            },
+            "edge_map": "government_logo_edges.png"
+        },
+        "photo": {
+            "type": "photo",
+            "features": {
+                "width": 334,
+                "height": 354,
+                "border_thickness": 27,
+                "edge_count": 11954,
+                "edge_ratio": 10.229,
+                "border_edge_ratio": 3.7244,
+                "centre_edge_ratio": 12.7738,
+                "left_edge_ratio": 2.9502,
+                "right_edge_ratio": 2.1962,
+                "top_edge_ratio": 8.7813,
+                "bottom_edge_ratio": 0.3939,
+                "mean_edge_strength": 147.6623,
+                "edge_threshold": 78.2046
+            },
+            "edge_map": "photo_edges.png"
+        },
+        "nic_number": {
+            "type": "text",
+            "features": {
+                "width": 407,
+                "height": 82,
+                "border_thickness": 7,
+                "edge_count": 4962,
+                "edge_ratio": 15.3148,
+                "border_edge_ratio": 13.1959,
+                "centre_edge_ratio": 15.7649,
+                "left_edge_ratio": 24.5833,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 16.4609,
+                "bottom_edge_ratio": 10.3704,
+                "mean_edge_strength": 243.5726,
+                "edge_threshold": 138.7915
+            },
+            "edge_map": "nic_number_edges.png"
+        },
+        "name": {
+            "type": "text",
+            "features": {
+                "width": 522,
+                "height": 108,
+                "border_thickness": 9,
+                "edge_count": 5041,
+                "edge_ratio": 9.1455,
+                "border_edge_ratio": 10.1639,
+                "centre_edge_ratio": 8.9264,
+                "left_edge_ratio": 12.3821,
+                "right_edge_ratio": 2.3585,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 21.899,
+                "mean_edge_strength": 204.1651,
+                "edge_threshold": 87.8372
+            },
+            "edge_map": "name_edges.png"
+        },
+        "sex": {
+            "type": "text",
+            "features": {
+                "width": 584,
+                "height": 76,
+                "border_thickness": 6,
+                "edge_count": 7213,
+                "edge_ratio": 16.7479,
+                "border_edge_ratio": 6.3003,
+                "centre_edge_ratio": 18.5916,
+                "left_edge_ratio": 23.5135,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 8.4536,
+                "bottom_edge_ratio": 2.543,
+                "mean_edge_strength": 237.5953,
+                "edge_threshold": 154.5169
+            },
+            "edge_map": "sex_edges.png"
+        },
+        "date_of_birth": {
+            "type": "text",
+            "features": {
+                "width": 574,
+                "height": 70,
+                "border_thickness": 6,
+                "edge_count": 5164,
+                "edge_ratio": 13.2764,
+                "border_edge_ratio": 19.8254,
+                "centre_edge_ratio": 12.0107,
+                "left_edge_ratio": 10.5882,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 43.1469,
+                "bottom_edge_ratio": 0.0,
+                "mean_edge_strength": 188.3216,
+                "edge_threshold": 103.9683
+            },
+            "edge_map": "date_of_birth_edges.png"
+        },
+        "holder_signature": {
+            "type": "signature",
+            "features": {
+                "width": 313,
+                "height": 69,
+                "border_thickness": 6,
+                "edge_count": 2142,
+                "edge_ratio": 10.2798,
+                "border_edge_ratio": 9.8098,
+                "centre_edge_ratio": 10.3806,
+                "left_edge_ratio": 9.8507,
+                "right_edge_ratio": 9.8507,
+                "top_edge_ratio": 19.4855,
+                "bottom_edge_ratio": 0.0,
+                "mean_edge_strength": 180.2877,
+                "edge_threshold": 80.3847
+            },
+            "edge_map": "holder_signature_edges.png"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "document_type": "NIC",
+    "status": "REVIEW",
+    "issue_count": 1,
+    "image_width": 1920,
+    "image_height": 1080,
+    "ocr_text_present": true,
+    "ocr_line_count": 16,
+    "validated_fields": {
+        "nic_number": "200229900760",
+        "licence_number": "B6200049",
+        "possible_name": null,
+        "dates": [
+            "25.10.2002"
+        ],
+        "blood_group": null
+    },
+    "issues": [
+        {
+            "code": "NAME_MISSING",
+            "field": "possibleName",
+            "message": "Name was not identified by OCR."
+        }
+    ]
+}

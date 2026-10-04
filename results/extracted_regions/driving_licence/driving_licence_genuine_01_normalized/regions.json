@@ -1,0 +1,138 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "source_image": "driving_licence_genuine_01_normalized.png",
+    "source_width": 995,
+    "source_height": 627,
+    "regions": {
+        "flag": {
+            "type": "logo",
+            "x1": 60,
+            "y1": 19,
+            "x2": 229,
+            "y2": 119,
+            "width": 169,
+            "height": 100,
+            "file": "flag.png"
+        },
+        "government_logo": {
+            "type": "logo",
+            "x1": 816,
+            "y1": 13,
+            "x2": 925,
+            "y2": 119,
+            "width": 109,
+            "height": 106,
+            "file": "government_logo.png"
+        },
+        "photo": {
+            "type": "photo",
+            "x1": 40,
+            "y1": 163,
+            "x2": 308,
+            "y2": 470,
+            "width": 268,
+            "height": 307,
+            "file": "photo.png"
+        },
+        "licence_number": {
+            "type": "text",
+            "x1": 289,
+            "y1": 113,
+            "x2": 567,
+            "y2": 182,
+            "width": 278,
+            "height": 69,
+            "file": "licence_number.png"
+        },
+        "nic_number": {
+            "type": "text",
+            "x1": 687,
+            "y1": 107,
+            "x2": 945,
+            "y2": 182,
+            "width": 258,
+            "height": 75,
+            "file": "nic_number.png"
+        },
+        "name": {
+            "type": "text",
+            "x1": 269,
+            "y1": 176,
+            "x2": 647,
+            "y2": 251,
+            "width": 378,
+            "height": 75,
+            "file": "name.png"
+        },
+        "address": {
+            "type": "text",
+            "x1": 279,
+            "y1": 232,
+            "x2": 706,
+            "y2": 307,
+            "width": 427,
+            "height": 75,
+            "file": "address.png"
+        },
+        "date_of_birth": {
+            "type": "text",
+            "x1": 279,
+            "y1": 307,
+            "x2": 557,
+            "y2": 370,
+            "width": 278,
+            "height": 63,
+            "file": "date_of_birth.png"
+        },
+        "date_field": {
+            "type": "text",
+            "x1": 279,
+            "y1": 376,
+            "x2": 567,
+            "y2": 439,
+            "width": 288,
+            "height": 63,
+            "file": "date_field.png"
+        },
+        "blood_group": {
+            "type": "text",
+            "x1": 308,
+            "y1": 439,
+            "x2": 607,
+            "y2": 502,
+            "width": 299,
+            "height": 63,
+            "file": "blood_group.png"
+        },
+        "holder_signature": {
+            "type": "signature",
+            "x1": 60,
+            "y1": 483,
+            "x2": 279,
+            "y2": 596,
+            "width": 219,
+            "height": 113,
+            "file": "holder_signature.png"
+        },
+        "security_mark": {
+            "type": "security_feature",
+            "x1": 776,
+            "y1": 251,
+            "x2": 945,
+            "y2": 420,
+            "width": 169,
+            "height": 169,
+            "file": "security_mark.png"
+        },
+        "official_signature": {
+            "type": "signature",
+            "x1": 716,
+            "y1": 477,
+            "x2": 955,
+            "y2": 596,
+            "width": 239,
+            "height": 119,
+            "file": "official_signature.png"
+        }
+    }
+}

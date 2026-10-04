@@ -1,0 +1,86 @@
+{
+    "government_logo": {
+        "type": "logo",
+        "symbol_difference_score": 48.3603,
+        "feature_comparisons": {
+            "foreground_ratio": {
+                "template_value": 34.1685,
+                "document_value": 46.6173,
+                "difference_percent": 36.4336,
+                "weight": 0.2
+            },
+            "component_count": {
+                "template_value": 6.0,
+                "document_value": 71.0,
+                "difference_percent": 100.0,
+                "weight": 0.1
+            },
+            "mean_component_area": {
+                "template_value": 1116.3333,
+                "document_value": 54.4085,
+                "difference_percent": 95.1261,
+                "weight": 0.15
+            },
+            "bounding_box_ratio": {
+                "template_value": 46.8011,
+                "document_value": 74.2515,
+                "difference_percent": 58.6533,
+                "weight": 0.2
+            },
+            "centre_x_ratio": {
+                "template_value": 70.3593,
+                "document_value": 62.8743,
+                "difference_percent": 10.6383,
+                "weight": 0.15
+            },
+            "centre_y_ratio": {
+                "template_value": 60.5263,
+                "document_value": 50.0,
+                "difference_percent": 17.3913,
+                "weight": 0.2
+            }
+        }
+    },
+    "holder_signature": {
+        "type": "signature",
+        "symbol_difference_score": 16.3922,
+        "feature_comparisons": {
+            "foreground_ratio": {
+                "template_value": 13.7473,
+                "document_value": 17.9747,
+                "difference_percent": 30.7508,
+                "weight": 0.25
+            },
+            "component_count": {
+                "template_value": 6.0,
+                "document_value": 4.0,
+                "difference_percent": 33.3333,
+                "weight": 0.1
+            },
+            "mean_component_area": {
+                "template_value": 1112.0,
+                "document_value": 1038.0,
+                "difference_percent": 6.6547,
+                "weight": 0.15
+            },
+            "bounding_box_ratio": {
+                "template_value": 86.9565,
+                "document_value": 95.5272,
+                "difference_percent": 9.8563,
+                "weight": 0.2
+            },
+            "centre_x_ratio": {
+                "template_value": 50.0,
+                "document_value": 52.2364,
+                "difference_percent": 4.4728,
+                "weight": 0.15
+            },
+            "centre_y_ratio": {
+                "template_value": 56.5217,
+                "document_value": 50.0,
+                "difference_percent": 11.5384,
+                "weight": 0.15
+            }
+        }
+    }
+}

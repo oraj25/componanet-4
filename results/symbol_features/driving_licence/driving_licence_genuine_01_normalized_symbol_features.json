@@ -1,0 +1,72 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "document": "driving_licence_genuine_01_normalized",
+    "source_image": "driving_licence_genuine_01_normalized.png",
+    "regions": {
+        "flag": {
+            "type": "logo",
+            "features": {
+                "foreground_ratio": 43.2367,
+                "component_count": 8,
+                "mean_component_area": 1014.375,
+                "bounding_box_ratio": 51.5385,
+                "centre_x_ratio": 52.071,
+                "centre_y_ratio": 59.5,
+                "threshold": 129
+            },
+            "preview": "flag_analysis.png"
+        },
+        "government_logo": {
+            "type": "logo",
+            "features": {
+                "foreground_ratio": 28.8991,
+                "component_count": 1,
+                "mean_component_area": 4424.0,
+                "bounding_box_ratio": 38.2898,
+                "centre_x_ratio": 37.6147,
+                "centre_y_ratio": 49.5283,
+                "threshold": 150
+            },
+            "preview": "government_logo_analysis.png"
+        },
+        "holder_signature": {
+            "type": "signature",
+            "features": {
+                "foreground_ratio": 18.1557,
+                "component_count": 7,
+                "mean_component_area": 1120.2857,
+                "bounding_box_ratio": 56.7341,
+                "centre_x_ratio": 35.6164,
+                "centre_y_ratio": 60.177,
+                "threshold": 91
+            },
+            "preview": "holder_signature_analysis.png"
+        },
+        "security_mark": {
+            "type": "security_feature",
+            "features": {
+                "foreground_ratio": 35.8636,
+                "component_count": 4,
+                "mean_component_area": 752.5,
+                "bounding_box_ratio": 12.1424,
+                "centre_x_ratio": 54.4379,
+                "centre_y_ratio": 60.355,
+                "threshold": 208
+            },
+            "preview": "security_mark_analysis.png"
+        },
+        "official_signature": {
+            "type": "signature",
+            "features": {
+                "foreground_ratio": 21.6237,
+                "component_count": 5,
+                "mean_component_area": 2302.2,
+                "bounding_box_ratio": 80.0605,
+                "centre_x_ratio": 48.1172,
+                "centre_y_ratio": 58.4034,
+                "threshold": 144
+            },
+            "preview": "official_signature_analysis.png"
+        }
+    }
+}

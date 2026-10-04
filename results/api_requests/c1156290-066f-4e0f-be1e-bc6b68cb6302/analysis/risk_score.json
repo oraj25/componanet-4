@@ -1,0 +1,111 @@
+{
+    "risk_score": 63.46,
+    "risk_level": "MEDIUM",
+    "recommended_action": "MANUAL_REVIEW_REQUIRED",
+    "component_scores": {
+        "background": 41.7026,
+        "edge": 67.4165,
+        "text": 74.0151,
+        "photo": 54.3938,
+        "symbol": 82.0353,
+        "localization": 91.0192,
+        "ocr": 15.0
+    },
+    "weighted_breakdown": {
+        "background": {
+            "score": 41.7026,
+            "weight": 0.18,
+            "weighted_value": 7.5065
+        },
+        "edge": {
+            "score": 67.4165,
+            "weight": 0.18,
+            "weighted_value": 12.135
+        },
+        "text": {
+            "score": 74.0151,
+            "weight": 0.18,
+            "weighted_value": 13.3227
+        },
+        "photo": {
+            "score": 54.3938,
+            "weight": 0.12,
+            "weighted_value": 6.5273
+        },
+        "symbol": {
+            "score": 82.0353,
+            "weight": 0.1,
+            "weighted_value": 8.2035
+        },
+        "localization": {
+            "score": 91.0192,
+            "weight": 0.16,
+            "weighted_value": 14.5631
+        },
+        "ocr": {
+            "score": 15.0,
+            "weight": 0.08,
+            "weighted_value": 1.2
+        }
+    },
+    "strong_evidence_count": 5,
+    "strong_evidence_sources": [
+        "edge",
+        "text",
+        "photo",
+        "symbol",
+        "localization"
+    ],
+    "finding_count": 7,
+    "findings": [
+        {
+            "category": "LOCALIZED_ALTERATION",
+            "region": "multiple",
+            "score": 91.02,
+            "message": "20 local visual inconsistency area(s) were detected."
+        },
+        {
+            "category": "TEXT_STRUCTURE",
+            "region": "licence_number",
+            "score": 88.73,
+            "message": "Text size, spacing or alignment differs from the reference structure."
+        },
+        {
+            "category": "SYMBOL",
+            "region": "official_signature",
+            "score": 84.82,
+            "message": "Signature, logo or security feature structure is inconsistent."
+        },
+        {
+            "category": "EDGE",
+            "region": "security_mark",
+            "score": 73.88,
+            "message": "Unusual edge structure detected in this region."
+        },
+        {
+            "category": "PHOTO",
+            "region": "photo",
+            "score": 54.39,
+            "message": "Photo-border characteristics differ from the approved template."
+        },
+        {
+            "category": "BACKGROUND",
+            "region": "nic_number",
+            "score": 45.25,
+            "message": "Unusual background or texture characteristics detected."
+        },
+        {
+            "category": "OCR_VALIDATION",
+            "region": "document_text",
+            "score": 15.0,
+            "message": "1 OCR validation issue(s) require review."
+        }
+    ],
+    "thresholds": {
+        "low": "0.00 - 34.99",
+        "medium": "35.00 - 64.99",
+        "high": "65.00 - 100.00 with at least two strong visual evidence sources",
+        "strong_evidence_threshold": 45.0
+    },
+    "decision_note": "The risk score identifies possible document alterations and is not a fraud probability or final fraud decision. Medium and High results require manual review."
+}

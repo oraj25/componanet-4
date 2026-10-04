@@ -1,0 +1,33 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# Generated results / test data
+results/api_requests/
+results/pipeline_test/
+
+# Real captured documents
+captured_document.jpg
+captured_document.png
+ocr.json
+request.json
+analysis_result.json
+
+# Environment / secrets
+.env
+*.env

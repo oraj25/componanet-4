@@ -1,0 +1,151 @@
+{
+    "documentType": "Driving_Licence",
+    "fullText": "DRIVING LICENCE\nDEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA\nkc.200229900 760\n5. B6200049\n1,2. OMAL RAJ\nWIJETUNGA\n8. 58/258 SOMATHALAGALA MAWATHA\nGANGODAWILA NUGEGODA\nO3. 25.10.2002\n4a. 18.12.2025\nBlood Group 0+\n12-^50\nKamal Amarasinghe\n4b. Commissioner General of Motor Traffic\n7. Holder's Signature",
+    "lines": [
+        {
+            "text": "DRIVING LICENCE",
+            "boundingBox": {
+                "left": 661,
+                "top": 309,
+                "right": 707,
+                "bottom": 701
+            }
+        },
+        {
+            "text": "DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+            "boundingBox": {
+                "left": 712,
+                "top": 239,
+                "right": 746,
+                "bottom": 788
+            }
+        },
+        {
+            "text": "kc.200229900 760",
+            "boundingBox": {
+                "left": 756,
+                "top": 18,
+                "right": 797,
+                "bottom": 303
+            }
+        },
+        {
+            "text": "5. B6200049",
+            "boundingBox": {
+                "left": 769,
+                "top": 558,
+                "right": 802,
+                "bottom": 745
+            }
+        },
+        {
+            "text": "1,2. OMAL RAJ",
+            "boundingBox": {
+                "left": 819,
+                "top": 584,
+                "right": 849,
+                "bottom": 769
+            }
+        },
+        {
+            "text": "WIJETUNGA",
+            "boundingBox": {
+                "left": 850,
+                "top": 569,
+                "right": 875,
+                "bottom": 708
+            }
+        },
+        {
+            "text": "8. 58/258 SOMATHALAGALA MAWATHA",
+            "boundingBox": {
+                "left": 891,
+                "top": 399,
+                "right": 916,
+                "bottom": 739
+            }
+        },
+        {
+            "text": "GANGODAWILA NUGEGODA",
+            "boundingBox": {
+                "left": 917,
+                "top": 490,
+                "right": 940,
+                "bottom": 707
+            }
+        },
+        {
+            "text": "O3. 25.10.2002",
+            "boundingBox": {
+                "left": 979,
+                "top": 555,
+                "right": 1012,
+                "bottom": 795
+            }
+        },
+        {
+            "text": "4a. 18.12.2025",
+            "boundingBox": {
+                "left": 1056,
+                "top": 552,
+                "right": 1086,
+                "bottom": 752
+            }
+        },
+        {
+            "text": "Blood Group 0+",
+            "boundingBox": {
+                "left": 1135,
+                "top": 496,
+                "right": 1155,
+                "bottom": 693
+            }
+        },
+        {
+            "text": "12-^50",
+            "boundingBox": {
+                "left": 1192,
+                "top": 664,
+                "right": 1223,
+                "bottom": 747
+            }
+        },
+        {
+            "text": "Kamal Amarasinghe",
+            "boundingBox": {
+                "left": 1254,
+                "top": 122,
+                "right": 1274,
+                "bottom": 286
+            }
+        },
+        {
+            "text": "4b. Commissioner General of Motor Traffic",
+            "boundingBox": {
+                "left": 1270,
+                "top": 21,
+                "right": 1292,
+                "bottom": 379
+            }
+        },
+        {
+            "text": "7. Holder's Signature",
+            "boundingBox": {
+                "left": 1276,
+                "top": 848,
+                "right": 1296,
+                "bottom": 1020
+            }
+        }
+    ],
+    "fields": {
+        "nicNumber": null,
+        "licenceNumber": "B6200049",
+        "bloodGroup": null,
+        "possibleName": null,
+        "dates": [
+            "25.10.2002",
+            "18.12.2025"
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "nic_number": {
+        "type": "text",
+        "background_difference_score": 34.5091,
+        "feature_comparisons": {
+            "mean_brightness": {
+                "template_value": 158.1761,
+                "document_value": 168.8523,
+                "difference_percent": 6.7496,
+                "weight": 0.2
+            },
+            "brightness_stddev": {
+                "template_value": 41.981,
+                "document_value": 51.9422,
+                "difference_percent": 23.7279,
+                "weight": 0.2
+            },
+            "bright_pixel_ratio": {
+                "template_value": 0.0,
+                "document_value": 29.8346,
+                "difference_percent": 100,
+                "weight": 0.1
+            },
+            "neighbour_difference": {
+                "template_value": 6.8313,
+                "document_value": 6.1757,
+                "difference_percent": 9.597,
+                "weight": 0.25
+            },
+            "block_mean_stddev": {
+                "template_value": 29.2258,
+                "document_value": 47.9471,
+                "difference_percent": 64.0574,
+                "weight": 0.25
+            }
+        }
+    },
+    "name": {
+        "type": "text",
+        "background_difference_score": 20.823,
+        "feature_comparisons": {
+            "mean_brightness": {
+                "template_value": 167.374,
+                "document_value": 174.2904,
+                "difference_percent": 4.1323,
+                "weight": 0.2
+            },
+            "brightness_stddev": {
+                "template_value": 29.1877,
+                "document_value": 28.3703,
+                "difference_percent": 2.8005,
+                "weight": 0.2
+            },
+            "bright_pixel_ratio": {
+                "template_value": 0.0,
+                "document_value": 4.7786,
+                "difference_percent": 95.572,
+                "weight": 0.1
+            },
+            "neighbour_difference": {
+                "template_value": 4.1042,
+                "document_value": 5.7045,
+                "difference_percent": 38.9918,
+                "weight": 0.25
+            },
+            "block_mean_stddev": {
+                "template_value": 22.3736,
+                "document_value": 22.4911,
+                "difference_percent": 0.5252,
+                "weight": 0.25
+            }
+        }
+    },
+    "sex": {
+        "type": "text",
+        "background_difference_score": 26.3794,
+        "feature_comparisons": {
+            "mean_brightness": {
+                "template_value": 164.4638,
+                "document_value": 167.4919,
+                "difference_percent": 1.8412,
+                "weight": 0.2
+            },
+            "brightness_stddev": {
+                "template_value": 32.7079,
+                "document_value": 25.0475,
+                "difference_percent": 23.4206,
+                "weight": 0.2
+            },
+            "bright_pixel_ratio": {
+                "template_value": 0.0,
+                "document_value": 0.3132,
+                "difference_percent": 6.264,
+                "weight": 0.1
+            },
+            "neighbour_difference": {
+                "template_value": 4.6603,
+                "document_value": 7.4862,
+                "difference_percent": 60.6377,
+                "weight": 0.25
+            },
+            "block_mean_stddev": {
+                "template_value": 22.8997,
+                "document_value": 17.824,
+                "difference_percent": 22.1649,
+                "weight": 0.25
+            }
+        }
+    },
+    "date_of_birth": {
+        "type": "text",
+        "background_difference_score": 20.3557,
+        "feature_comparisons": {
+            "mean_brightness": {
+                "template_value": 169.6183,
+                "document_value": 138.8627,
+                "difference_percent": 18.1322,
+                "weight": 0.2
+            },
+            "brightness_stddev": {
+                "template_value": 24.9728,
+                "document_value": 25.6051,
+                "difference_percent": 2.532,
+                "weight": 0.2
+            },
+            "bright_pixel_ratio": {
+                "template_value": 0.0,
+                "document_value": 0.0324,
+                "difference_percent": 0.648,
+                "weight": 0.1
+            },
+            "neighbour_difference": {
+                "template_value": 4.2719,
+                "document_value": 6.8767,
+                "difference_percent": 60.9752,
+                "weight": 0.25
+            },
+            "block_mean_stddev": {
+                "template_value": 16.6422,
+                "document_value": 17.2508,
+                "difference_percent": 3.657,
+                "weight": 0.25
+            }
+        }
+    }
+}

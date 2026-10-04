@@ -1,0 +1,338 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "template_image": "driving_licence_template_v1_normalized.png",
+    "document_image": "driving_licence_genuine_01_normalized.png",
+    "regions": {
+        "licence_number": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 177.8025,
+                    "document_value": 177.8025,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 37.7169,
+                    "document_value": 37.7169,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 11.8653,
+                    "document_value": 11.8653,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 6.0196,
+                    "document_value": 6.0196,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 25.7671,
+                    "document_value": 25.7671,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        },
+        "nic_number": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 174.8269,
+                    "document_value": 174.8269,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 28.7539,
+                    "document_value": 28.7539,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 6.0258,
+                    "document_value": 6.0258,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 3.9217,
+                    "document_value": 3.9217,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 20.7291,
+                    "document_value": 20.7291,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        },
+        "name": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 171.0697,
+                    "document_value": 171.0697,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 38.9557,
+                    "document_value": 38.9557,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 7.2451,
+                    "document_value": 7.2451,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 7.0565,
+                    "document_value": 7.0565,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 27.8644,
+                    "document_value": 27.8644,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        },
+        "address": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 169.7634,
+                    "document_value": 169.7634,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 30.2733,
+                    "document_value": 30.2733,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 1.9422,
+                    "document_value": 1.9422,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 5.6499,
+                    "document_value": 5.6499,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 18.2037,
+                    "document_value": 18.2037,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        },
+        "date_of_birth": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 162.352,
+                    "document_value": 162.352,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 26.5135,
+                    "document_value": 26.5135,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 0.0971,
+                    "document_value": 0.0971,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 4.1646,
+                    "document_value": 4.1646,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 20.6633,
+                    "document_value": 20.6633,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        },
+        "date_field": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 148.2932,
+                    "document_value": 148.2932,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 26.1186,
+                    "document_value": 26.1186,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 0.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 3.3185,
+                    "document_value": 3.3185,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 21.4908,
+                    "document_value": 21.4908,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        },
+        "blood_group": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 147.4756,
+                    "document_value": 147.4756,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 25.5479,
+                    "document_value": 25.5479,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 0.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 2.7207,
+                    "document_value": 2.7207,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 20.5378,
+                    "document_value": 20.5378,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        },
+        "security_mark": {
+            "type": "security_feature",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 213.5913,
+                    "document_value": 213.5913,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 18.9395,
+                    "document_value": 18.9395,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 74.059,
+                    "document_value": 74.059,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 1.2772,
+                    "document_value": 1.2772,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 17.1798,
+                    "document_value": 17.1798,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        }
+    },
+    "ranked_candidate_regions": [
+        {
+            "region": "licence_number",
+            "type": "text",
+            "background_difference_score": 0.0
+        },
+        {
+            "region": "nic_number",
+            "type": "text",
+            "background_difference_score": 0.0
+        },
+        {
+            "region": "name",
+            "type": "text",
+            "background_difference_score": 0.0
+        },
+        {
+            "region": "address",
+            "type": "text",
+            "background_difference_score": 0.0
+        },
+        {
+            "region": "date_of_birth",
+            "type": "text",
+            "background_difference_score": 0.0
+        },
+        {
+            "region": "date_field",
+            "type": "text",
+            "background_difference_score": 0.0
+        },
+        {
+            "region": "blood_group",
+            "type": "text",
+            "background_difference_score": 0.0
+        },
+        {
+            "region": "security_mark",
+            "type": "security_feature",
+            "background_difference_score": 0.0
+        }
+    ],
+    "average_background_difference_score": 0.0
+}

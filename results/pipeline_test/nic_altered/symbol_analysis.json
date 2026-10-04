@@ -1,0 +1,86 @@
+{
+    "government_logo": {
+        "type": "logo",
+        "symbol_difference_score": 33.7165,
+        "feature_comparisons": {
+            "foreground_ratio": {
+                "template_value": 34.1685,
+                "document_value": 30.0872,
+                "difference_percent": 11.9446,
+                "weight": 0.2
+            },
+            "component_count": {
+                "template_value": 6.0,
+                "document_value": 14.0,
+                "difference_percent": 100.0,
+                "weight": 0.1
+            },
+            "mean_component_area": {
+                "template_value": 1116.3333,
+                "document_value": 690.5714,
+                "difference_percent": 38.1393,
+                "weight": 0.15
+            },
+            "bounding_box_ratio": {
+                "template_value": 46.8011,
+                "document_value": 71.5254,
+                "difference_percent": 52.8285,
+                "weight": 0.2
+            },
+            "centre_x_ratio": {
+                "template_value": 70.3593,
+                "document_value": 54.1916,
+                "difference_percent": 22.9788,
+                "weight": 0.15
+            },
+            "centre_y_ratio": {
+                "template_value": 60.5263,
+                "document_value": 55.7018,
+                "difference_percent": 7.9709,
+                "weight": 0.2
+            }
+        }
+    },
+    "holder_signature": {
+        "type": "signature",
+        "symbol_difference_score": 65.9872,
+        "feature_comparisons": {
+            "foreground_ratio": {
+                "template_value": 13.7473,
+                "document_value": 46.3027,
+                "difference_percent": 100.0,
+                "weight": 0.25
+            },
+            "component_count": {
+                "template_value": 6.0,
+                "document_value": 1.0,
+                "difference_percent": 83.3333,
+                "weight": 0.1
+            },
+            "mean_component_area": {
+                "template_value": 1112.0,
+                "document_value": 10329.0,
+                "difference_percent": 100.0,
+                "weight": 0.15
+            },
+            "bounding_box_ratio": {
+                "template_value": 86.9565,
+                "document_value": 47.8261,
+                "difference_percent": 45.0,
+                "weight": 0.2
+            },
+            "centre_x_ratio": {
+                "template_value": 50.0,
+                "document_value": 50.0,
+                "difference_percent": 0.0,
+                "weight": 0.15
+            },
+            "centre_y_ratio": {
+                "template_value": 56.5217,
+                "document_value": 23.913,
+                "difference_percent": 57.6924,
+                "weight": 0.15
+            }
+        }
+    }
+}

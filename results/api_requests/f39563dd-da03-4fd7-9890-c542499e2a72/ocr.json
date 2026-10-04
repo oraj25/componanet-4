@@ -1,0 +1,123 @@
+{
+    "documentType": "National_Identity_Card",
+    "fullText": "Oo SRI LANKA\nNATIONAL IDENTITY CARD\n200229900760\nqotD av. / No.:\nName\nOMAL RAJ WIJETUNGA\ncsß gou so3D /uneo / Sex : gots\ncus opbg s|Date of Birth:\nçoo eou6OUNGnai GoQlumÙULD / Holder's Signature\ny8OI Male\n2002/10/25\n(omol",
+    "lines": [
+        {
+            "text": "Oo SRI LANKA",
+            "boundingBox": {
+                "left": 574,
+                "top": 401,
+                "right": 758,
+                "bottom": 432
+            }
+        },
+        {
+            "text": "NATIONAL IDENTITY CARD",
+            "boundingBox": {
+                "left": 793,
+                "top": 374,
+                "right": 1172,
+                "bottom": 420
+            }
+        },
+        {
+            "text": "200229900760",
+            "boundingBox": {
+                "left": 1021,
+                "top": 405,
+                "right": 1243,
+                "bottom": 444
+            }
+        },
+        {
+            "text": "qotD av. / No.:",
+            "boundingBox": {
+                "left": 802,
+                "top": 423,
+                "right": 966,
+                "bottom": 458
+            }
+        },
+        {
+            "text": "Name",
+            "boundingBox": {
+                "left": 848,
+                "top": 662,
+                "right": 902,
+                "bottom": 680
+            }
+        },
+        {
+            "text": "OMAL RAJ WIJETUNGA",
+            "boundingBox": {
+                "left": 932,
+                "top": 660,
+                "right": 1149,
+                "bottom": 687
+            }
+        },
+        {
+            "text": "csß gou so3D /uneo / Sex : gots",
+            "boundingBox": {
+                "left": 850,
+                "top": 735,
+                "right": 1213,
+                "bottom": 777
+            }
+        },
+        {
+            "text": "cus opbg s|Date of Birth:",
+            "boundingBox": {
+                "left": 851,
+                "top": 781,
+                "right": 1236,
+                "bottom": 817
+            }
+        },
+        {
+            "text": "çoo eou6OUNGnai GoQlumÙULD / Holder's Signature",
+            "boundingBox": {
+                "left": 555,
+                "top": 836,
+                "right": 1193,
+                "bottom": 884
+            }
+        },
+        {
+            "text": "y8OI Male",
+            "boundingBox": {
+                "left": 1263,
+                "top": 725,
+                "right": 1439,
+                "bottom": 760
+            }
+        },
+        {
+            "text": "2002/10/25",
+            "boundingBox": {
+                "left": 1266,
+                "top": 777,
+                "right": 1383,
+                "bottom": 804
+            }
+        },
+        {
+            "text": "(omol",
+            "boundingBox": {
+                "left": 1245,
+                "top": 817,
+                "right": 1357,
+                "bottom": 860
+            }
+        }
+    ],
+    "fields": {
+        "nicNumber": "200229900760",
+        "licenceNumber": null,
+        "bloodGroup": null,
+        "possibleName": "OMAL RAJ WIJETUNGA",
+        "dates": [
+            "2002/10/25"
+        ]
+    }
+}

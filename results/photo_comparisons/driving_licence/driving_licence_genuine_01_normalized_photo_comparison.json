@@ -1,0 +1,44 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "template": "driving_licence_template_v1_normalized",
+    "document": "driving_licence_genuine_01_normalized",
+    "photo_border_difference_score": 0.0,
+    "feature_comparisons": {
+        "border_edge_ratio": {
+            "template_value": 4.9781,
+            "document_value": 4.9781,
+            "difference_percent": 0.0,
+            "weight": 0.35
+        },
+        "border_mean_strength": {
+            "template_value": 19.37,
+            "document_value": 19.37,
+            "difference_percent": 0.0,
+            "weight": 0.25
+        },
+        "left_edge_ratio": {
+            "template_value": 0.0,
+            "document_value": 0.0,
+            "difference_percent": 0.0,
+            "weight": 0.1
+        },
+        "right_edge_ratio": {
+            "template_value": 5.4786,
+            "document_value": 5.4786,
+            "difference_percent": 0.0,
+            "weight": 0.1
+        },
+        "top_edge_ratio": {
+            "template_value": 8.6466,
+            "document_value": 8.6466,
+            "difference_percent": 0.0,
+            "weight": 0.1
+        },
+        "bottom_edge_ratio": {
+            "template_value": 7.0216,
+            "document_value": 7.0216,
+            "difference_percent": 0.0,
+            "weight": 0.1
+        }
+    }
+}

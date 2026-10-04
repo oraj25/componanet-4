@@ -1,0 +1,240 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "source_image": "driving_licence_genuine_01_normalized.png",
+    "regions": {
+        "flag": {
+            "type": "logo",
+            "features": {
+                "width": 169,
+                "height": 100,
+                "total_pixels": 16900,
+                "mean_brightness": 135.2507,
+                "brightness_stddev": 46.1987,
+                "dark_pixel_ratio": 27.7101,
+                "bright_pixel_ratio": 0.3136,
+                "neighbour_difference": 3.9292,
+                "block_count": 77,
+                "block_mean_average": 141.6078,
+                "block_mean_stddev": 40.1693,
+                "min_block_mean": 71.2695,
+                "max_block_mean": 194.3477
+            }
+        },
+        "government_logo": {
+            "type": "logo",
+            "features": {
+                "width": 109,
+                "height": 106,
+                "total_pixels": 11554,
+                "mean_brightness": 168.5024,
+                "brightness_stddev": 40.2601,
+                "dark_pixel_ratio": 3.8082,
+                "bright_pixel_ratio": 18.3486,
+                "neighbour_difference": 2.5957,
+                "block_count": 49,
+                "block_mean_average": 170.515,
+                "block_mean_stddev": 36.6078,
+                "min_block_mean": 87.4141,
+                "max_block_mean": 203.351
+            }
+        },
+        "photo": {
+            "type": "photo",
+            "features": {
+                "width": 268,
+                "height": 307,
+                "total_pixels": 82276,
+                "mean_brightness": 126.9036,
+                "brightness_stddev": 50.3563,
+                "dark_pixel_ratio": 28.5697,
+                "bright_pixel_ratio": 0.175,
+                "neighbour_difference": 1.7658,
+                "block_count": 340,
+                "block_mean_average": 127.2947,
+                "block_mean_stddev": 46.9306,
+                "min_block_mean": 31.0664,
+                "max_block_mean": 198.0078
+            }
+        },
+        "licence_number": {
+            "type": "text",
+            "features": {
+                "width": 278,
+                "height": 69,
+                "total_pixels": 19182,
+                "mean_brightness": 177.8025,
+                "brightness_stddev": 37.7169,
+                "dark_pixel_ratio": 5.7137,
+                "bright_pixel_ratio": 11.8653,
+                "neighbour_difference": 6.0196,
+                "block_count": 90,
+                "block_mean_average": 177.1524,
+                "block_mean_stddev": 25.7671,
+                "min_block_mean": 111.4875,
+                "max_block_mean": 204.6979
+            }
+        },
+        "nic_number": {
+            "type": "text",
+            "features": {
+                "width": 258,
+                "height": 75,
+                "total_pixels": 19350,
+                "mean_brightness": 174.8269,
+                "brightness_stddev": 28.7539,
+                "dark_pixel_ratio": 2.3514,
+                "bright_pixel_ratio": 6.0258,
+                "neighbour_difference": 3.9217,
+                "block_count": 85,
+                "block_mean_average": 176.7751,
+                "block_mean_stddev": 20.7291,
+                "min_block_mean": 125.4102,
+                "max_block_mean": 203.9375
+            }
+        },
+        "name": {
+            "type": "text",
+            "features": {
+                "width": 378,
+                "height": 75,
+                "total_pixels": 28350,
+                "mean_brightness": 171.0697,
+                "brightness_stddev": 38.9557,
+                "dark_pixel_ratio": 7.0758,
+                "bright_pixel_ratio": 7.2451,
+                "neighbour_difference": 7.0565,
+                "block_count": 120,
+                "block_mean_average": 169.4418,
+                "block_mean_stddev": 27.8644,
+                "min_block_mean": 100.9883,
+                "max_block_mean": 199.5898
+            }
+        },
+        "address": {
+            "type": "text",
+            "features": {
+                "width": 427,
+                "height": 75,
+                "total_pixels": 32025,
+                "mean_brightness": 169.7634,
+                "brightness_stddev": 30.2733,
+                "dark_pixel_ratio": 4.7775,
+                "bright_pixel_ratio": 1.9422,
+                "neighbour_difference": 5.6499,
+                "block_count": 135,
+                "block_mean_average": 170.4511,
+                "block_mean_stddev": 18.2037,
+                "min_block_mean": 116.6797,
+                "max_block_mean": 202.2617
+            }
+        },
+        "date_of_birth": {
+            "type": "text",
+            "features": {
+                "width": 278,
+                "height": 63,
+                "total_pixels": 17514,
+                "mean_brightness": 162.352,
+                "brightness_stddev": 26.5135,
+                "dark_pixel_ratio": 3.7456,
+                "bright_pixel_ratio": 0.0971,
+                "neighbour_difference": 4.1646,
+                "block_count": 72,
+                "block_mean_average": 163.3474,
+                "block_mean_stddev": 20.6633,
+                "min_block_mean": 104.9062,
+                "max_block_mean": 197.2266
+            }
+        },
+        "date_field": {
+            "type": "text",
+            "features": {
+                "width": 288,
+                "height": 63,
+                "total_pixels": 18144,
+                "mean_brightness": 148.2932,
+                "brightness_stddev": 26.1186,
+                "dark_pixel_ratio": 4.5194,
+                "bright_pixel_ratio": 0.0,
+                "neighbour_difference": 3.3185,
+                "block_count": 72,
+                "block_mean_average": 148.3531,
+                "block_mean_stddev": 21.4908,
+                "min_block_mean": 97.1055,
+                "max_block_mean": 184.2266
+            }
+        },
+        "blood_group": {
+            "type": "text",
+            "features": {
+                "width": 299,
+                "height": 63,
+                "total_pixels": 18837,
+                "mean_brightness": 147.4756,
+                "brightness_stddev": 25.5479,
+                "dark_pixel_ratio": 3.9603,
+                "bright_pixel_ratio": 0.0,
+                "neighbour_difference": 2.7207,
+                "block_count": 76,
+                "block_mean_average": 147.9887,
+                "block_mean_stddev": 20.5378,
+                "min_block_mean": 97.2734,
+                "max_block_mean": 181.6094
+            }
+        },
+        "holder_signature": {
+            "type": "signature",
+            "features": {
+                "width": 219,
+                "height": 113,
+                "total_pixels": 24747,
+                "mean_brightness": 108.7246,
+                "brightness_stddev": 24.389,
+                "dark_pixel_ratio": 17.5941,
+                "bright_pixel_ratio": 0.0,
+                "neighbour_difference": 2.4042,
+                "block_count": 112,
+                "block_mean_average": 108.1427,
+                "block_mean_stddev": 21.1371,
+                "min_block_mean": 49.2656,
+                "max_block_mean": 136.4545
+            }
+        },
+        "security_mark": {
+            "type": "security_feature",
+            "features": {
+                "width": 169,
+                "height": 169,
+                "total_pixels": 28561,
+                "mean_brightness": 213.5913,
+                "brightness_stddev": 18.9395,
+                "dark_pixel_ratio": 0.0,
+                "bright_pixel_ratio": 74.059,
+                "neighbour_difference": 1.2772,
+                "block_count": 121,
+                "block_mean_average": 212.8965,
+                "block_mean_stddev": 17.1798,
+                "min_block_mean": 171.8438,
+                "max_block_mean": 237.8203
+            }
+        },
+        "official_signature": {
+            "type": "signature",
+            "features": {
+                "width": 239,
+                "height": 119,
+                "total_pixels": 28441,
+                "mean_brightness": 161.6481,
+                "brightness_stddev": 29.1861,
+                "dark_pixel_ratio": 2.4929,
+                "bright_pixel_ratio": 0.0,
+                "neighbour_difference": 2.849,
+                "block_count": 120,
+                "block_mean_average": 161.0701,
+                "block_mean_stddev": 24.2008,
+                "min_block_mean": 49.0273,
+                "max_block_mean": 186.1094
+            }
+        }
+    }
+}

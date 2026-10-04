@@ -1,0 +1,15 @@
+{
+    "document_id": "45bd3e24-d4ff-4c60-8c4d-e436361e5c3c",
+    "android_document_type": "Driving_Licence",
+    "internal_document_type": "DRIVING_LICENCE",
+    "received_at": "2026-09-14T17:13:36.353686+00:00",
+    "image_file": "captured_document.jpg",
+    "image_size_bytes": 701436,
+    "ocr_available": true,
+    "ocr_line_count": 15,
+    "ocr_validation_status": "REVIEW",
+    "ocr_issue_count": 1,
+    "analysis_supported": true,
+    "alteration_analysis_status": "ERROR",
+    "suspicious_area_count": 0
+}

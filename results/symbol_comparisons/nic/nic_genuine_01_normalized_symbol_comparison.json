@@ -1,0 +1,104 @@
+{
+    "document_type": "NIC",
+    "template": "nic_template_v1_normalized",
+    "document": "nic_genuine_01_normalized",
+    "regions": {
+        "government_logo": {
+            "type": "logo",
+            "symbol_difference_score": 0.0,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 34.1685,
+                    "document_value": 34.1685,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "component_count": {
+                    "template_value": 6.0,
+                    "document_value": 6.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 1116.3333,
+                    "document_value": 1116.3333,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 46.8011,
+                    "document_value": 46.8011,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 70.3593,
+                    "document_value": 70.3593,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 60.5263,
+                    "document_value": 60.5263,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "holder_signature": {
+            "type": "signature",
+            "symbol_difference_score": 0.0,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 13.7473,
+                    "document_value": 13.7473,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "component_count": {
+                    "template_value": 6.0,
+                    "document_value": 6.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 1112.0,
+                    "document_value": 1112.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 86.9565,
+                    "document_value": 86.9565,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 50.0,
+                    "document_value": 50.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 56.5217,
+                    "document_value": 56.5217,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                }
+            }
+        }
+    },
+    "ranked_candidate_regions": [
+        {
+            "region": "government_logo",
+            "type": "logo",
+            "symbol_difference_score": 0.0
+        },
+        {
+            "region": "holder_signature",
+            "type": "signature",
+            "symbol_difference_score": 0.0
+        }
+    ],
+    "average_symbol_difference_score": 0.0
+}

@@ -1,0 +1,190 @@
+{
+    "nic_number": {
+        "text_structure_difference_score": 85.6267,
+        "feature_comparisons": {
+            "mean_component_height": {
+                "template_value": 13.8,
+                "document_value": 4.0,
+                "difference_percent": 71.0145,
+                "weight": 0.2
+            },
+            "component_height_stddev": {
+                "template_value": 8.5229,
+                "document_value": 0.0,
+                "difference_percent": 100.0,
+                "weight": 0.15
+            },
+            "mean_component_width": {
+                "template_value": 19.24,
+                "document_value": 2.0,
+                "difference_percent": 89.605,
+                "weight": 0.1
+            },
+            "mean_horizontal_gap": {
+                "template_value": 12.0526,
+                "document_value": 0.0,
+                "difference_percent": 100.0,
+                "weight": 0.2
+            },
+            "horizontal_gap_stddev": {
+                "template_value": 26.0131,
+                "document_value": 0.0,
+                "difference_percent": 100.0,
+                "weight": 0.1
+            },
+            "baseline_stddev": {
+                "template_value": 1.8383,
+                "document_value": 0.0,
+                "difference_percent": 100.0,
+                "weight": 0.15
+            },
+            "foreground_ratio": {
+                "template_value": 13.8671,
+                "document_value": 10.4512,
+                "difference_percent": 24.6331,
+                "weight": 0.1
+            }
+        }
+    },
+    "name": {
+        "text_structure_difference_score": 40.2678,
+        "feature_comparisons": {
+            "mean_component_height": {
+                "template_value": 10.3333,
+                "document_value": 8.6842,
+                "difference_percent": 15.9591,
+                "weight": 0.2
+            },
+            "component_height_stddev": {
+                "template_value": 5.9489,
+                "document_value": 11.9893,
+                "difference_percent": 100.0,
+                "weight": 0.15
+            },
+            "mean_component_width": {
+                "template_value": 22.5,
+                "document_value": 9.1053,
+                "difference_percent": 59.532,
+                "weight": 0.1
+            },
+            "mean_horizontal_gap": {
+                "template_value": 4.1429,
+                "document_value": 4.0312,
+                "difference_percent": 2.6962,
+                "weight": 0.2
+            },
+            "horizontal_gap_stddev": {
+                "template_value": 2.5314,
+                "document_value": 6.3368,
+                "difference_percent": 100.0,
+                "weight": 0.1
+            },
+            "baseline_stddev": {
+                "template_value": 1.1493,
+                "document_value": 0.8603,
+                "difference_percent": 25.1457,
+                "weight": 0.15
+            },
+            "foreground_ratio": {
+                "template_value": 4.7095,
+                "document_value": 5.5627,
+                "difference_percent": 18.1166,
+                "weight": 0.1
+            }
+        }
+    },
+    "sex": {
+        "text_structure_difference_score": 51.7092,
+        "feature_comparisons": {
+            "mean_component_height": {
+                "template_value": 12.4848,
+                "document_value": 9.8,
+                "difference_percent": 21.5045,
+                "weight": 0.2
+            },
+            "component_height_stddev": {
+                "template_value": 8.2135,
+                "document_value": 11.3854,
+                "difference_percent": 38.6181,
+                "weight": 0.15
+            },
+            "mean_component_width": {
+                "template_value": 12.5152,
+                "document_value": 7.3333,
+                "difference_percent": 41.4049,
+                "weight": 0.1
+            },
+            "mean_horizontal_gap": {
+                "template_value": 7.8,
+                "document_value": 1.5,
+                "difference_percent": 80.7692,
+                "weight": 0.2
+            },
+            "horizontal_gap_stddev": {
+                "template_value": 6.735,
+                "document_value": 0.9574,
+                "difference_percent": 85.7847,
+                "weight": 0.1
+            },
+            "baseline_stddev": {
+                "template_value": 2.2264,
+                "document_value": 0.5579,
+                "difference_percent": 74.9416,
+                "weight": 0.15
+            },
+            "foreground_ratio": {
+                "template_value": 9.6634,
+                "document_value": 8.2124,
+                "difference_percent": 15.0154,
+                "weight": 0.1
+            }
+        }
+    },
+    "date_of_birth": {
+        "text_structure_difference_score": 33.0367,
+        "feature_comparisons": {
+            "mean_component_height": {
+                "template_value": 12.5517,
+                "document_value": 5.963,
+                "difference_percent": 52.4925,
+                "weight": 0.2
+            },
+            "component_height_stddev": {
+                "template_value": 7.4906,
+                "document_value": 3.2028,
+                "difference_percent": 57.2424,
+                "weight": 0.15
+            },
+            "mean_component_width": {
+                "template_value": 17.1379,
+                "document_value": 5.0741,
+                "difference_percent": 70.3925,
+                "weight": 0.1
+            },
+            "mean_horizontal_gap": {
+                "template_value": 19.2083,
+                "document_value": 17.7727,
+                "difference_percent": 7.4739,
+                "weight": 0.2
+            },
+            "horizontal_gap_stddev": {
+                "template_value": 49.2214,
+                "document_value": 38.5745,
+                "difference_percent": 21.6306,
+                "weight": 0.1
+            },
+            "baseline_stddev": {
+                "template_value": 2.0061,
+                "document_value": 2.1596,
+                "difference_percent": 7.6517,
+                "weight": 0.15
+            },
+            "foreground_ratio": {
+                "template_value": 11.3987,
+                "document_value": 8.997,
+                "difference_percent": 21.0699,
+                "weight": 0.1
+            }
+        }
+    }
+}

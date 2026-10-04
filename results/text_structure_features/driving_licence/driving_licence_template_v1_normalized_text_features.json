@@ -1,0 +1,126 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "document": "driving_licence_template_v1_normalized",
+    "source_image": "driving_licence_template_v1_normalized.png",
+    "regions": {
+        "licence_number": {
+            "type": "text",
+            "features": {
+                "component_count": 19,
+                "line_count": 4,
+                "mean_component_width": 9.8421,
+                "component_width_stddev": 4.2952,
+                "mean_component_height": 11.4211,
+                "component_height_stddev": 7.2425,
+                "mean_horizontal_gap": 8.6,
+                "horizontal_gap_stddev": 8.4758,
+                "baseline_stddev": 0.2485,
+                "foreground_ratio": 7.8772,
+                "threshold": 124
+            },
+            "component_preview": "licence_number_components.png"
+        },
+        "nic_number": {
+            "type": "text",
+            "features": {
+                "component_count": 7,
+                "line_count": 3,
+                "mean_component_width": 36.5714,
+                "component_width_stddev": 47.3373,
+                "mean_component_height": 10.2857,
+                "component_height_stddev": 7.8142,
+                "mean_horizontal_gap": 9.75,
+                "horizontal_gap_stddev": 8.9268,
+                "baseline_stddev": 0.1443,
+                "foreground_ratio": 16.9354,
+                "threshold": 152
+            },
+            "component_preview": "nic_number_components.png"
+        },
+        "name": {
+            "type": "text",
+            "features": {
+                "component_count": 46,
+                "line_count": 4,
+                "mean_component_width": 9.2609,
+                "component_width_stddev": 2.5744,
+                "mean_component_height": 11.5652,
+                "component_height_stddev": 3.3985,
+                "mean_horizontal_gap": 4.5238,
+                "horizontal_gap_stddev": 5.2064,
+                "baseline_stddev": 0.5,
+                "foreground_ratio": 10.9383,
+                "threshold": 127
+            },
+            "component_preview": "name_components.png"
+        },
+        "address": {
+            "type": "text",
+            "features": {
+                "component_count": 45,
+                "line_count": 3,
+                "mean_component_width": 8.9778,
+                "component_width_stddev": 2.6624,
+                "mean_component_height": 10.9778,
+                "component_height_stddev": 1.626,
+                "mean_horizontal_gap": 2.6905,
+                "horizontal_gap_stddev": 4.2454,
+                "baseline_stddev": 0.8785,
+                "foreground_ratio": 9.1491,
+                "threshold": 132
+            },
+            "component_preview": "address_components.png"
+        },
+        "date_of_birth": {
+            "type": "text",
+            "features": {
+                "component_count": 12,
+                "line_count": 1,
+                "mean_component_width": 9.1667,
+                "component_width_stddev": 2.6719,
+                "mean_component_height": 13.6667,
+                "component_height_stddev": 5.6026,
+                "mean_horizontal_gap": 5.2727,
+                "horizontal_gap_stddev": 3.1935,
+                "baseline_stddev": 1.1149,
+                "foreground_ratio": 5.6983,
+                "threshold": 121
+            },
+            "component_preview": "date_of_birth_components.png"
+        },
+        "date_field": {
+            "type": "text",
+            "features": {
+                "component_count": 12,
+                "line_count": 1,
+                "mean_component_width": 10.4167,
+                "component_width_stddev": 4.8727,
+                "mean_component_height": 14.75,
+                "component_height_stddev": 5.4943,
+                "mean_horizontal_gap": 5.1818,
+                "horizontal_gap_stddev": 2.9793,
+                "baseline_stddev": 1.3819,
+                "foreground_ratio": 7.3247,
+                "threshold": 116
+            },
+            "component_preview": "date_field_components.png"
+        },
+        "blood_group": {
+            "type": "text",
+            "features": {
+                "component_count": 8,
+                "line_count": 3,
+                "mean_component_width": 17.25,
+                "component_width_stddev": 23.5146,
+                "mean_component_height": 13.5,
+                "component_height_stddev": 14.1421,
+                "mean_horizontal_gap": 7.5,
+                "horizontal_gap_stddev": 3.2016,
+                "baseline_stddev": 5.1745,
+                "foreground_ratio": 42.528,
+                "threshold": 144
+            },
+            "component_preview": "blood_group_components.png"
+        }
+    }
+}

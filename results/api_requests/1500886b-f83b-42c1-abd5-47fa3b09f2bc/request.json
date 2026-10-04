@@ -1,0 +1,15 @@
+{
+    "document_id": "1500886b-f83b-42c1-abd5-47fa3b09f2bc",
+    "android_document_type": "National_Identity_Card",
+    "internal_document_type": "NIC",
+    "received_at": "2026-09-14T17:56:12.357894+00:00",
+    "image_file": "captured_document.jpg",
+    "image_size_bytes": 824003,
+    "ocr_available": true,
+    "ocr_line_count": 10,
+    "ocr_validation_status": "REVIEW",
+    "ocr_issue_count": 1,
+    "analysis_supported": true,
+    "alteration_analysis_status": "ERROR",
+    "suspicious_area_count": 0
+}

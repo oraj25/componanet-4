@@ -1,0 +1,465 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "template": "driving_licence_template_v1_normalized",
+    "document": "driving_licence_altered_01_normalized",
+    "regions": {
+        "flag": {
+            "type": "logo",
+            "edge_difference_score": 33.7273,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 15.7766,
+                    "document_value": 14.0719,
+                    "difference_percent": 10.8052,
+                    "weight": 0.3
+                },
+                "border_edge_ratio": {
+                    "template_value": 6.2038,
+                    "document_value": 0.0,
+                    "difference_percent": 100.0,
+                    "weight": 0.25
+                },
+                "centre_edge_ratio": {
+                    "template_value": 18.394,
+                    "document_value": 17.9194,
+                    "difference_percent": 2.5802,
+                    "weight": 0.25
+                },
+                "mean_edge_strength": {
+                    "template_value": 136.1189,
+                    "document_value": 169.064,
+                    "difference_percent": 24.2032,
+                    "weight": 0.2
+                }
+            }
+        },
+        "government_logo": {
+            "type": "logo",
+            "edge_difference_score": 39.3173,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 12.1136,
+                    "document_value": 12.2753,
+                    "difference_percent": 1.3349,
+                    "weight": 0.3
+                },
+                "border_edge_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 1.7404,
+                    "difference_percent": 100,
+                    "weight": 0.25
+                },
+                "centre_edge_ratio": {
+                    "template_value": 16.1051,
+                    "document_value": 15.7467,
+                    "difference_percent": 2.2254,
+                    "weight": 0.25
+                },
+                "mean_edge_strength": {
+                    "template_value": 106.7005,
+                    "document_value": 177.9791,
+                    "difference_percent": 66.8025,
+                    "weight": 0.2
+                }
+            }
+        },
+        "photo": {
+            "type": "photo",
+            "edge_difference_score": 63.2168,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 6.2739,
+                    "document_value": 10.7198,
+                    "difference_percent": 70.8634,
+                    "weight": 0.15
+                },
+                "border_edge_ratio": {
+                    "template_value": 2.1092,
+                    "document_value": 3.6911,
+                    "difference_percent": 75.0,
+                    "weight": 0.5
+                },
+                "centre_edge_ratio": {
+                    "template_value": 7.7509,
+                    "document_value": 13.2126,
+                    "difference_percent": 70.4654,
+                    "weight": 0.15
+                },
+                "mean_edge_strength": {
+                    "template_value": 125.2828,
+                    "document_value": 96.9848,
+                    "difference_percent": 22.5873,
+                    "weight": 0.2
+                }
+            }
+        },
+        "licence_number": {
+            "type": "text",
+            "edge_difference_score": 44.9811,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 11.0967,
+                    "document_value": 16.3746,
+                    "difference_percent": 47.5628,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 7.7778,
+                    "document_value": 8.7688,
+                    "difference_percent": 12.7414,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 11.8256,
+                    "document_value": 18.0451,
+                    "difference_percent": 52.5935,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 389.5422,
+                    "document_value": 182.2109,
+                    "difference_percent": 53.2243,
+                    "weight": 0.2
+                }
+            }
+        },
+        "nic_number": {
+            "type": "text",
+            "edge_difference_score": 18.9944,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 13.0351,
+                    "document_value": 13.7682,
+                    "difference_percent": 5.624,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 1.2226,
+                    "document_value": 5.2665,
+                    "difference_percent": 100,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 15.4665,
+                    "document_value": 15.5181,
+                    "difference_percent": 0.3336,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 182.7933,
+                    "document_value": 165.1915,
+                    "difference_percent": 9.6293,
+                    "weight": 0.2
+                }
+            }
+        },
+        "name": {
+            "type": "text",
+            "edge_difference_score": 24.5043,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 13.5128,
+                    "document_value": 12.398,
+                    "difference_percent": 8.25,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 23.508,
+                    "document_value": 11.7312,
+                    "difference_percent": 50.097,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 11.6099,
+                    "document_value": 12.5249,
+                    "difference_percent": 7.8812,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 353.6894,
+                    "document_value": 146.1108,
+                    "difference_percent": 58.6895,
+                    "weight": 0.2
+                }
+            }
+        },
+        "address": {
+            "type": "text",
+            "edge_difference_score": 32.1451,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 12.6317,
+                    "document_value": 14.6559,
+                    "difference_percent": 16.0248,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 19.1598,
+                    "difference_percent": 100,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 14.9895,
+                    "document_value": 13.8153,
+                    "difference_percent": 7.8335,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 279.7047,
+                    "document_value": 151.2308,
+                    "difference_percent": 45.932,
+                    "weight": 0.2
+                }
+            }
+        },
+        "date_of_birth": {
+            "type": "text",
+            "edge_difference_score": 60.1473,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 8.7729,
+                    "document_value": 14.4809,
+                    "difference_percent": 65.064,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 12.0441,
+                    "difference_percent": 100,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 10.3985,
+                    "document_value": 14.9324,
+                    "difference_percent": 43.6015,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 279.4595,
+                    "document_value": 149.5883,
+                    "difference_percent": 46.4723,
+                    "weight": 0.2
+                }
+            }
+        },
+        "date_field": {
+            "type": "text",
+            "edge_difference_score": 49.8095,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 9.1597,
+                    "document_value": 14.6165,
+                    "difference_percent": 59.574,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 16.9617,
+                    "difference_percent": 100,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 10.8457,
+                    "document_value": 14.1849,
+                    "difference_percent": 30.7882,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 208.3234,
+                    "document_value": 159.1372,
+                    "difference_percent": 23.6105,
+                    "weight": 0.2
+                }
+            }
+        },
+        "blood_group": {
+            "type": "text",
+            "edge_difference_score": 85.0,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 9.5435,
+                    "document_value": 0.0,
+                    "difference_percent": 100.0,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 0.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 11.2881,
+                    "document_value": 0.0,
+                    "difference_percent": 100.0,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 165.2734,
+                    "document_value": 0.0,
+                    "difference_percent": 100.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "holder_signature": {
+            "type": "signature",
+            "edge_difference_score": 43.6309,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 12.1476,
+                    "document_value": 13.5218,
+                    "difference_percent": 11.3125,
+                    "weight": 0.2
+                },
+                "border_edge_ratio": {
+                    "template_value": 5.3686,
+                    "document_value": 15.024,
+                    "difference_percent": 100,
+                    "weight": 0.35
+                },
+                "centre_edge_ratio": {
+                    "template_value": 13.9199,
+                    "document_value": 13.1291,
+                    "difference_percent": 5.6811,
+                    "weight": 0.25
+                },
+                "mean_edge_strength": {
+                    "template_value": 102.2753,
+                    "document_value": 127.5789,
+                    "difference_percent": 24.7407,
+                    "weight": 0.2
+                }
+            }
+        },
+        "security_mark": {
+            "type": "security_feature",
+            "edge_difference_score": 79.2174,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 8.4191,
+                    "document_value": 14.6725,
+                    "difference_percent": 74.2763,
+                    "weight": 0.25
+                },
+                "border_edge_ratio": {
+                    "template_value": 3.6963,
+                    "document_value": 14.5604,
+                    "difference_percent": 100,
+                    "weight": 0.3
+                },
+                "centre_edge_ratio": {
+                    "template_value": 10.3214,
+                    "document_value": 14.7176,
+                    "difference_percent": 42.5931,
+                    "weight": 0.25
+                },
+                "mean_edge_strength": {
+                    "template_value": 59.3869,
+                    "document_value": 204.2733,
+                    "difference_percent": 100,
+                    "weight": 0.2
+                }
+            }
+        },
+        "official_signature": {
+            "type": "signature",
+            "edge_difference_score": 52.7459,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 13.4733,
+                    "document_value": 13.8627,
+                    "difference_percent": 2.8902,
+                    "weight": 0.2
+                },
+                "border_edge_ratio": {
+                    "template_value": 11.789,
+                    "document_value": 26.0747,
+                    "difference_percent": 100,
+                    "weight": 0.35
+                },
+                "centre_edge_ratio": {
+                    "template_value": 13.9431,
+                    "document_value": 10.4562,
+                    "difference_percent": 25.0081,
+                    "weight": 0.25
+                },
+                "mean_edge_strength": {
+                    "template_value": 116.9982,
+                    "document_value": 180.855,
+                    "difference_percent": 54.5793,
+                    "weight": 0.2
+                }
+            }
+        }
+    },
+    "ranked_candidate_regions": [
+        {
+            "region": "blood_group",
+            "type": "text",
+            "edge_difference_score": 85.0
+        },
+        {
+            "region": "security_mark",
+            "type": "security_feature",
+            "edge_difference_score": 79.2174
+        },
+        {
+            "region": "photo",
+            "type": "photo",
+            "edge_difference_score": 63.2168
+        },
+        {
+            "region": "date_of_birth",
+            "type": "text",
+            "edge_difference_score": 60.1473
+        },
+        {
+            "region": "official_signature",
+            "type": "signature",
+            "edge_difference_score": 52.7459
+        },
+        {
+            "region": "date_field",
+            "type": "text",
+            "edge_difference_score": 49.8095
+        },
+        {
+            "region": "licence_number",
+            "type": "text",
+            "edge_difference_score": 44.9811
+        },
+        {
+            "region": "holder_signature",
+            "type": "signature",
+            "edge_difference_score": 43.6309
+        },
+        {
+            "region": "government_logo",
+            "type": "logo",
+            "edge_difference_score": 39.3173
+        },
+        {
+            "region": "flag",
+            "type": "logo",
+            "edge_difference_score": 33.7273
+        },
+        {
+            "region": "address",
+            "type": "text",
+            "edge_difference_score": 32.1451
+        },
+        {
+            "region": "name",
+            "type": "text",
+            "edge_difference_score": 24.5043
+        },
+        {
+            "region": "nic_number",
+            "type": "text",
+            "edge_difference_score": 18.9944
+        }
+    ],
+    "average_edge_difference_score": 48.2644
+}

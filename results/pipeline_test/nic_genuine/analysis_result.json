@@ -1,0 +1,695 @@
+{
+    "status": "COMPLETE",
+    "document_type": "NIC",
+    "template": "nic_template_v1.jpg",
+    "normalized_width": 1044,
+    "normalized_height": 633,
+    "region_count": 7,
+    "background_analysis": {
+        "nic_number": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 158.1761,
+                    "document_value": 158.1761,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 41.981,
+                    "document_value": 41.981,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 0.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 6.8313,
+                    "document_value": 6.8313,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 29.2258,
+                    "document_value": 29.2258,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        },
+        "name": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 167.374,
+                    "document_value": 167.374,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 29.1877,
+                    "document_value": 29.1877,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 0.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 4.1042,
+                    "document_value": 4.1042,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 22.3736,
+                    "document_value": 22.3736,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        },
+        "sex": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 164.4638,
+                    "document_value": 164.4638,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 32.7079,
+                    "document_value": 32.7079,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 0.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 4.6603,
+                    "document_value": 4.6603,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 22.8997,
+                    "document_value": 22.8997,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        },
+        "date_of_birth": {
+            "type": "text",
+            "background_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_brightness": {
+                    "template_value": 169.6183,
+                    "document_value": 169.6183,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "brightness_stddev": {
+                    "template_value": 24.9728,
+                    "document_value": 24.9728,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "bright_pixel_ratio": {
+                    "template_value": 0.0,
+                    "document_value": 0.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "neighbour_difference": {
+                    "template_value": 4.2719,
+                    "document_value": 4.2719,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "block_mean_stddev": {
+                    "template_value": 16.6422,
+                    "document_value": 16.6422,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                }
+            }
+        }
+    },
+    "edge_analysis": {
+        "government_logo": {
+            "type": "logo",
+            "edge_difference_score": 0.0,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 14.6645,
+                    "document_value": 14.6645,
+                    "difference_percent": 0.0,
+                    "weight": 0.3
+                },
+                "border_edge_ratio": {
+                    "template_value": 16.7864,
+                    "document_value": 16.7864,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "centre_edge_ratio": {
+                    "template_value": 14.045,
+                    "document_value": 14.045,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "mean_edge_strength": {
+                    "template_value": 140.2421,
+                    "document_value": 140.2421,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "photo": {
+            "type": "photo",
+            "edge_difference_score": 0.0,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 9.1157,
+                    "document_value": 9.1157,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "border_edge_ratio": {
+                    "template_value": 10.5404,
+                    "document_value": 10.5404,
+                    "difference_percent": 0.0,
+                    "weight": 0.5
+                },
+                "centre_edge_ratio": {
+                    "template_value": 8.5583,
+                    "document_value": 8.5583,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "mean_edge_strength": {
+                    "template_value": 120.9877,
+                    "document_value": 120.9877,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "nic_number": {
+            "type": "text",
+            "edge_difference_score": 0.0,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 14.8056,
+                    "document_value": 14.8056,
+                    "difference_percent": 0.0,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 13.1607,
+                    "document_value": 13.1607,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 15.1549,
+                    "document_value": 15.1549,
+                    "difference_percent": 0.0,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 316.4738,
+                    "document_value": 316.4738,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "name": {
+            "type": "text",
+            "edge_difference_score": 0.0,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 6.7435,
+                    "document_value": 6.7435,
+                    "difference_percent": 0.0,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 0.0205,
+                    "document_value": 0.0205,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 8.19,
+                    "document_value": 8.19,
+                    "difference_percent": 0.0,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 285.8824,
+                    "document_value": 285.8824,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "sex": {
+            "type": "text",
+            "edge_difference_score": 0.0,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 12.0321,
+                    "document_value": 12.0321,
+                    "difference_percent": 0.0,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 0.9752,
+                    "document_value": 0.9752,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 13.9833,
+                    "document_value": 13.9833,
+                    "difference_percent": 0.0,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 219.0886,
+                    "document_value": 219.0886,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "date_of_birth": {
+            "type": "text",
+            "edge_difference_score": 0.0,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 12.7237,
+                    "document_value": 12.7237,
+                    "difference_percent": 0.0,
+                    "weight": 0.35
+                },
+                "border_edge_ratio": {
+                    "template_value": 2.8571,
+                    "document_value": 2.8571,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_edge_ratio": {
+                    "template_value": 14.6306,
+                    "document_value": 14.6306,
+                    "difference_percent": 0.0,
+                    "weight": 0.3
+                },
+                "mean_edge_strength": {
+                    "template_value": 183.5377,
+                    "document_value": 183.5377,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "holder_signature": {
+            "type": "signature",
+            "edge_difference_score": 0.0,
+            "feature_comparisons": {
+                "edge_ratio": {
+                    "template_value": 12.3098,
+                    "document_value": 12.3098,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "border_edge_ratio": {
+                    "template_value": 5.4891,
+                    "document_value": 5.4891,
+                    "difference_percent": 0.0,
+                    "weight": 0.35
+                },
+                "centre_edge_ratio": {
+                    "template_value": 13.7728,
+                    "document_value": 13.7728,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "mean_edge_strength": {
+                    "template_value": 95.8599,
+                    "document_value": 95.8599,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        }
+    },
+    "text_analysis": {
+        "nic_number": {
+            "text_structure_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 13.8,
+                    "document_value": 13.8,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 8.5229,
+                    "document_value": 8.5229,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 19.24,
+                    "document_value": 19.24,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 12.0526,
+                    "document_value": 12.0526,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 26.0131,
+                    "document_value": 26.0131,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 1.8383,
+                    "document_value": 1.8383,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 13.8671,
+                    "document_value": 13.8671,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                }
+            }
+        },
+        "name": {
+            "text_structure_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 10.3333,
+                    "document_value": 10.3333,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 5.9489,
+                    "document_value": 5.9489,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 22.5,
+                    "document_value": 22.5,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 4.1429,
+                    "document_value": 4.1429,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 2.5314,
+                    "document_value": 2.5314,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 1.1493,
+                    "document_value": 1.1493,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 4.7095,
+                    "document_value": 4.7095,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                }
+            }
+        },
+        "sex": {
+            "text_structure_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 12.4848,
+                    "document_value": 12.4848,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 8.2135,
+                    "document_value": 8.2135,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 12.5152,
+                    "document_value": 12.5152,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 7.8,
+                    "document_value": 7.8,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 6.735,
+                    "document_value": 6.735,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 2.2264,
+                    "document_value": 2.2264,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 9.6634,
+                    "document_value": 9.6634,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                }
+            }
+        },
+        "date_of_birth": {
+            "text_structure_difference_score": 0.0,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 12.5517,
+                    "document_value": 12.5517,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 7.4906,
+                    "document_value": 7.4906,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 17.1379,
+                    "document_value": 17.1379,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 19.2083,
+                    "document_value": 19.2083,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 49.2214,
+                    "document_value": 49.2214,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 2.0061,
+                    "document_value": 2.0061,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 11.3987,
+                    "document_value": 11.3987,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                }
+            }
+        }
+    },
+    "photo_analysis": {
+        "document_type": "NIC",
+        "template": "approved_template",
+        "document": "submitted_document",
+        "photo_border_difference_score": 0.0,
+        "feature_comparisons": {
+            "border_edge_ratio": {
+                "template_value": 9.8164,
+                "document_value": 9.8164,
+                "difference_percent": 0.0,
+                "weight": 0.35
+            },
+            "border_mean_strength": {
+                "template_value": 27.0934,
+                "document_value": 27.0934,
+                "difference_percent": 0.0,
+                "weight": 0.25
+            },
+            "left_edge_ratio": {
+                "template_value": 21.3287,
+                "document_value": 21.3287,
+                "difference_percent": 0.0,
+                "weight": 0.1
+            },
+            "right_edge_ratio": {
+                "template_value": 1.8211,
+                "document_value": 1.8211,
+                "difference_percent": 0.0,
+                "weight": 0.1
+            },
+            "top_edge_ratio": {
+                "template_value": 7.8931,
+                "document_value": 7.8931,
+                "difference_percent": 0.0,
+                "weight": 0.1
+            },
+            "bottom_edge_ratio": {
+                "template_value": 8.5032,
+                "document_value": 8.5032,
+                "difference_percent": 0.0,
+                "weight": 0.1
+            }
+        }
+    },
+    "symbol_analysis": {
+        "government_logo": {
+            "type": "logo",
+            "symbol_difference_score": 0.0,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 34.1685,
+                    "document_value": 34.1685,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "component_count": {
+                    "template_value": 6.0,
+                    "document_value": 6.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 1116.3333,
+                    "document_value": 1116.3333,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 46.8011,
+                    "document_value": 46.8011,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 70.3593,
+                    "document_value": 70.3593,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 60.5263,
+                    "document_value": 60.5263,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "holder_signature": {
+            "type": "signature",
+            "symbol_difference_score": 0.0,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 13.7473,
+                    "document_value": 13.7473,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "component_count": {
+                    "template_value": 6.0,
+                    "document_value": 6.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 1112.0,
+                    "document_value": 1112.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 86.9565,
+                    "document_value": 86.9565,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 50.0,
+                    "document_value": 50.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 56.5217,
+                    "document_value": 56.5217,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                }
+            }
+        }
+    },
+    "altered_text_localization": {
+        "candidate_threshold": 30.0,
+        "suspicious_area_count": 0,
+        "suspicious_areas": []
+    },
+    "suspicious_area_count": 0,
+    "highlighted_image": "highlighted_suspicious_areas.png",
+    "risk_score": null,
+    "risk_level": "NOT_CALCULATED"
+}

@@ -1,0 +1,161 @@
+{
+    "documentType": "Driving_Licence",
+    "fullText": "oms\nHoldes Sgalure\nDRIVING LICENCE\nDEMOCRATIC SOCIALIST PEPUBLIC OF SRI LANKA\n5. B6200049\n1,2. OMAL RAJ\nWIJETUNGA\n8. 58/256 sOMATHALAGALA MAWATHA\nGANGODAWILA NUGEGODA\n3. 25.10. 2002\n48. 18. 12.2025\nBLood Group 0+\n12.0\n4c.200229900760\nKamal Amarasinghe\n46. Cormmissioner General f Motor Traffic",
+    "lines": [
+        {
+            "text": "oms",
+            "boundingBox": {
+                "left": 441,
+                "top": 877,
+                "right": 560,
+                "bottom": 935
+            }
+        },
+        {
+            "text": "Holdes Sgalure",
+            "boundingBox": {
+                "left": 401,
+                "top": 970,
+                "right": 554,
+                "bottom": 995
+            }
+        },
+        {
+            "text": "DRIVING LICENCE",
+            "boundingBox": {
+                "left": 705,
+                "top": 337,
+                "right": 1118,
+                "bottom": 378
+            }
+        },
+        {
+            "text": "DEMOCRATIC SOCIALIST PEPUBLIC OF SRI LANKA",
+            "boundingBox": {
+                "left": 627,
+                "top": 384,
+                "right": 1198,
+                "bottom": 418
+            }
+        },
+        {
+            "text": "5. B6200049",
+            "boundingBox": {
+                "left": 685,
+                "top": 441,
+                "right": 869,
+                "bottom": 477
+            }
+        },
+        {
+            "text": "1,2. OMAL RAJ",
+            "boundingBox": {
+                "left": 646,
+                "top": 496,
+                "right": 840,
+                "bottom": 521
+            }
+        },
+        {
+            "text": "WIJETUNGA",
+            "boundingBox": {
+                "left": 711,
+                "top": 530,
+                "right": 860,
+                "bottom": 550
+            }
+        },
+        {
+            "text": "8. 58/256 sOMATHALAGALA MAWATHA",
+            "boundingBox": {
+                "left": 672,
+                "top": 572,
+                "right": 1035,
+                "bottom": 591
+            }
+        },
+        {
+            "text": "GANGODAWILA NUGEGODA",
+            "boundingBox": {
+                "left": 710,
+                "top": 600,
+                "right": 942,
+                "bottom": 616
+            }
+        },
+        {
+            "text": "3. 25.10. 2002",
+            "boundingBox": {
+                "left": 677,
+                "top": 661,
+                "right": 873,
+                "bottom": 693
+            }
+        },
+        {
+            "text": "48. 18. 12.2025",
+            "boundingBox": {
+                "left": 659,
+                "top": 744,
+                "right": 868,
+                "bottom": 769
+            }
+        },
+        {
+            "text": "BLood Group 0+",
+            "boundingBox": {
+                "left": 707,
+                "top": 825,
+                "right": 932,
+                "bottom": 850
+            }
+        },
+        {
+            "text": "12.0",
+            "boundingBox": {
+                "left": 658,
+                "top": 888,
+                "right": 751,
+                "bottom": 920
+            }
+        },
+        {
+            "text": "4c.200229900760",
+            "boundingBox": {
+                "left": 1140,
+                "top": 433,
+                "right": 1428,
+                "bottom": 474
+            }
+        },
+        {
+            "text": "Kamal Amarasinghe",
+            "boundingBox": {
+                "left": 1156,
+                "top": 963,
+                "right": 1334,
+                "bottom": 990
+            }
+        },
+        {
+            "text": "46. Cormmissioner General f Motor Traffic",
+            "boundingBox": {
+                "left": 1059,
+                "top": 981,
+                "right": 1438,
+                "bottom": 1008
+            }
+        }
+    ],
+    "fields": {
+        "nicNumber": "200229900760",
+        "licenceNumber": "B6200049",
+        "bloodGroup": null,
+        "possibleName": "OMAL RAJ WIJETUNGA",
+        "dates": [
+            "8.58/256",
+            "3.25.10",
+            "48.18.12"
+        ]
+    }
+}

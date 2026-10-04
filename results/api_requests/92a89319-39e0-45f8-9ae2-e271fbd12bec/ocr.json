@@ -1,0 +1,139 @@
+{
+    "documentType": "National_Identity_Card",
+    "fullText": "Atlas Precise\n200229900760\nNATIONAL IDENTITY CARD\nqotn/Qa /Not\nSRI LANKA\nOMAL RAJ WIJETUNGA\nName\nG0TMale\n2002/1025\no /Dpba ugh / Date of Birth:\ndS goe an /un / Sex:\ncos\n(ornol\nçdso 0s (OLTGsa ouGQunib /Holder's Signature",
+    "lines": [
+        {
+            "text": "Atlas Precise",
+            "boundingBox": {
+                "left": 132,
+                "top": 610,
+                "right": 314,
+                "bottom": 970
+            }
+        },
+        {
+            "text": "200229900760",
+            "boundingBox": {
+                "left": 770,
+                "top": 271,
+                "right": 804,
+                "bottom": 472
+            }
+        },
+        {
+            "text": "NATIONAL IDENTITY CARD",
+            "boundingBox": {
+                "left": 735,
+                "top": 330,
+                "right": 767,
+                "bottom": 690
+            }
+        },
+        {
+            "text": "qotn/Qa /Not",
+            "boundingBox": {
+                "left": 774,
+                "top": 532,
+                "right": 794,
+                "bottom": 693
+            }
+        },
+        {
+            "text": "SRI LANKA",
+            "boundingBox": {
+                "left": 732,
+                "top": 732,
+                "right": 757,
+                "bottom": 847
+            }
+        },
+        {
+            "text": "OMAL RAJ WIJETUNGA",
+            "boundingBox": {
+                "left": 999,
+                "top": 370,
+                "right": 1023,
+                "bottom": 574
+            }
+        },
+        {
+            "text": "Name",
+            "boundingBox": {
+                "left": 986,
+                "top": 607,
+                "right": 1009,
+                "bottom": 654
+            }
+        },
+        {
+            "text": "G0TMale",
+            "boundingBox": {
+                "left": 1078,
+                "top": 104,
+                "right": 1107,
+                "bottom": 238
+            }
+        },
+        {
+            "text": "2002/1025",
+            "boundingBox": {
+                "left": 1123,
+                "top": 154,
+                "right": 1150,
+                "bottom": 258
+            }
+        },
+        {
+            "text": "o /Dpba ugh / Date of Birth:",
+            "boundingBox": {
+                "left": 1115,
+                "top": 285,
+                "right": 1139,
+                "bottom": 572
+            }
+        },
+        {
+            "text": "dS goe an /un / Sex:",
+            "boundingBox": {
+                "left": 1071,
+                "top": 389,
+                "right": 1102,
+                "bottom": 657
+            }
+        },
+        {
+            "text": "cos",
+            "boundingBox": {
+                "left": 1116,
+                "top": 614,
+                "right": 1138,
+                "bottom": 659
+            }
+        },
+        {
+            "text": "(ornol",
+            "boundingBox": {
+                "left": 1159,
+                "top": 180,
+                "right": 1195,
+                "bottom": 289
+            }
+        },
+        {
+            "text": "çdso 0s (OLTGsa ouGQunib /Holder's Signature",
+            "boundingBox": {
+                "left": 1164,
+                "top": 336,
+                "right": 1191,
+                "bottom": 973
+            }
+        }
+    ],
+    "fields": {
+        "nicNumber": "200229900760",
+        "licenceNumber": null,
+        "bloodGroup": null,
+        "possibleName": "G0TMale",
+        "dates": []
+    }
+}

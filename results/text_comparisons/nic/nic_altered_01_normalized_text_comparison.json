@@ -1,0 +1,214 @@
+{
+    "document_type": "NIC",
+    "template": "nic_template_v1_normalized",
+    "document": "nic_altered_01_normalized",
+    "regions": {
+        "nic_number": {
+            "text_structure_difference_score": 48.7509,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 13.8,
+                    "document_value": 13.1818,
+                    "difference_percent": 4.4797,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 8.5229,
+                    "document_value": 3.7856,
+                    "difference_percent": 55.5832,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 19.24,
+                    "document_value": 34.9091,
+                    "difference_percent": 81.4402,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 12.0526,
+                    "document_value": 6.625,
+                    "difference_percent": 45.0326,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 26.0131,
+                    "document_value": 3.7728,
+                    "difference_percent": 85.4965,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 1.8383,
+                    "document_value": 0.1889,
+                    "difference_percent": 89.7242,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 13.8671,
+                    "document_value": 13.3697,
+                    "difference_percent": 3.5869,
+                    "weight": 0.1
+                }
+            }
+        },
+        "name": {
+            "text_structure_difference_score": 50.0065,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 10.3333,
+                    "document_value": 7.0,
+                    "difference_percent": 32.2578,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 5.9489,
+                    "document_value": 4.6653,
+                    "difference_percent": 21.5771,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 22.5,
+                    "document_value": 23.1176,
+                    "difference_percent": 2.7449,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 4.1429,
+                    "document_value": 34.5,
+                    "difference_percent": 100.0,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 2.5314,
+                    "document_value": 28.4356,
+                    "difference_percent": 100.0,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 1.1493,
+                    "document_value": 0.6562,
+                    "difference_percent": 42.9044,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 4.7095,
+                    "document_value": 6.4088,
+                    "difference_percent": 36.0824,
+                    "weight": 0.1
+                }
+            }
+        },
+        "sex": {
+            "text_structure_difference_score": 37.4441,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 12.4848,
+                    "document_value": 10.7778,
+                    "difference_percent": 13.6726,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 8.2135,
+                    "document_value": 5.9267,
+                    "difference_percent": 27.842,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 12.5152,
+                    "document_value": 12.5714,
+                    "difference_percent": 0.4491,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 7.8,
+                    "document_value": 12.8039,
+                    "difference_percent": 64.1526,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 6.735,
+                    "document_value": 30.2279,
+                    "difference_percent": 100.0,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 2.2264,
+                    "document_value": 2.1809,
+                    "difference_percent": 2.0437,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 9.6634,
+                    "document_value": 16.7673,
+                    "difference_percent": 73.5135,
+                    "weight": 0.1
+                }
+            }
+        },
+        "date_of_birth": {
+            "text_structure_difference_score": 43.6412,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 12.5517,
+                    "document_value": 7.1486,
+                    "difference_percent": 43.0468,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 7.4906,
+                    "document_value": 4.611,
+                    "difference_percent": 38.4428,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 17.1379,
+                    "document_value": 9.1081,
+                    "difference_percent": 46.854,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 19.2083,
+                    "document_value": 7.4531,
+                    "difference_percent": 61.1985,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 49.2214,
+                    "document_value": 19.1653,
+                    "difference_percent": 61.0631,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 2.0061,
+                    "document_value": 1.2699,
+                    "difference_percent": 36.6981,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 11.3987,
+                    "document_value": 10.5674,
+                    "difference_percent": 7.2929,
+                    "weight": 0.1
+                }
+            }
+        }
+    },
+    "ranked_candidate_regions": [
+        {
+            "region": "name",
+            "text_structure_difference_score": 50.0065
+        },
+        {
+            "region": "nic_number",
+            "text_structure_difference_score": 48.7509
+        },
+        {
+            "region": "date_of_birth",
+            "text_structure_difference_score": 43.6412
+        },
+        {
+            "region": "sex",
+            "text_structure_difference_score": 37.4441
+        }
+    ],
+    "average_text_structure_difference_score": 44.9607
+}

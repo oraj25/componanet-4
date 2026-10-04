@@ -1,0 +1,27 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "status": "REVIEW",
+    "issue_count": 1,
+    "image_width": 1920,
+    "image_height": 1080,
+    "ocr_text_present": true,
+    "ocr_line_count": 16,
+    "validated_fields": {
+        "nic_number": "200229900760",
+        "licence_number": "B6200049",
+        "possible_name": "OMAL RAJ WIJETUNGA",
+        "dates": [
+            "8.58/256",
+            "3.25.10",
+            "48.18.12"
+        ],
+        "blood_group": null
+    },
+    "issues": [
+        {
+            "code": "INVALID_DATE_FORMAT",
+            "field": "dates",
+            "message": "No detected driving-licence date has a valid calendar format."
+        }
+    ]
+}

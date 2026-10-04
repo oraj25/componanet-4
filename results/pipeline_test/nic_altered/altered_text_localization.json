@@ -1,0 +1,195 @@
+{
+    "candidate_threshold": 76.6694,
+    "suspicious_area_count": 21,
+    "suspicious_areas": [
+        {
+            "region": "nic_number",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 95.2247,
+            "x1": 788,
+            "y1": 146,
+            "x2": 820,
+            "y2": 178
+        },
+        {
+            "region": "nic_number",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 87.3963,
+            "x1": 740,
+            "y1": 114,
+            "x2": 756,
+            "y2": 130
+        },
+        {
+            "region": "name",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 85.6339,
+            "x1": 397,
+            "y1": 364,
+            "x2": 717,
+            "y2": 428
+        },
+        {
+            "region": "name",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 85.3201,
+            "x1": 685,
+            "y1": 444,
+            "x2": 749,
+            "y2": 456
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 85.3178,
+            "x1": 775,
+            "y1": 500,
+            "x2": 935,
+            "y2": 564
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 83.9697,
+            "x1": 407,
+            "y1": 548,
+            "x2": 423,
+            "y2": 564
+        },
+        {
+            "region": "sex",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 83.7731,
+            "x1": 397,
+            "y1": 443,
+            "x2": 981,
+            "y2": 519
+        },
+        {
+            "region": "nic_number",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 83.6641,
+            "x1": 564,
+            "y1": 146,
+            "x2": 596,
+            "y2": 178
+        },
+        {
+            "region": "name",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 83.1186,
+            "x1": 829,
+            "y1": 444,
+            "x2": 845,
+            "y2": 456
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 83.0816,
+            "x1": 407,
+            "y1": 500,
+            "x2": 503,
+            "y2": 532
+        },
+        {
+            "region": "name",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 82.9913,
+            "x1": 605,
+            "y1": 444,
+            "x2": 621,
+            "y2": 456
+        },
+        {
+            "region": "nic_number",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 82.5421,
+            "x1": 644,
+            "y1": 178,
+            "x2": 660,
+            "y2": 194
+        },
+        {
+            "region": "name",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 82.2781,
+            "x1": 765,
+            "y1": 444,
+            "x2": 781,
+            "y2": 456
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 82.2551,
+            "x1": 711,
+            "y1": 500,
+            "x2": 759,
+            "y2": 564
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 82.0068,
+            "x1": 631,
+            "y1": 500,
+            "x2": 695,
+            "y2": 532
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 81.9454,
+            "x1": 535,
+            "y1": 548,
+            "x2": 695,
+            "y2": 564
+        },
+        {
+            "region": "name",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 81.8148,
+            "x1": 877,
+            "y1": 444,
+            "x2": 919,
+            "y2": 456
+        },
+        {
+            "region": "nic_number",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 81.4708,
+            "x1": 900,
+            "y1": 114,
+            "x2": 916,
+            "y2": 130
+        },
+        {
+            "region": "nic_number",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 80.6466,
+            "x1": 676,
+            "y1": 178,
+            "x2": 692,
+            "y2": 194
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 80.2673,
+            "x1": 567,
+            "y1": 500,
+            "x2": 615,
+            "y2": 532
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 79.5068,
+            "x1": 519,
+            "y1": 516,
+            "x2": 551,
+            "y2": 532
+        }
+    ]
+}

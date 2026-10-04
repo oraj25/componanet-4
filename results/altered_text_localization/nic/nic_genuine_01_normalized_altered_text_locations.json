@@ -1,0 +1,30 @@
+{
+    "document_type": "NIC",
+    "template": "nic_template_v1_normalized",
+    "document": "nic_genuine_01_normalized",
+    "candidate_threshold": 30.0,
+    "regions": {
+        "nic_number": {
+            "total_blocks": 130,
+            "suspicious_blocks": 0,
+            "locations": []
+        },
+        "name": {
+            "total_blocks": 231,
+            "suspicious_blocks": 0,
+            "locations": []
+        },
+        "sex": {
+            "total_blocks": 185,
+            "suspicious_blocks": 0,
+            "locations": []
+        },
+        "date_of_birth": {
+            "total_blocks": 180,
+            "suspicious_blocks": 0,
+            "locations": []
+        }
+    },
+    "suspicious_areas": [],
+    "total_suspicious_areas": 0
+}

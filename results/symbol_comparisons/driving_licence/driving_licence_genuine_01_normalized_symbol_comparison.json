@@ -1,0 +1,245 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "template": "driving_licence_template_v1_normalized",
+    "document": "driving_licence_genuine_01_normalized",
+    "regions": {
+        "flag": {
+            "type": "logo",
+            "symbol_difference_score": 0.0,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 43.2367,
+                    "document_value": 43.2367,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "component_count": {
+                    "template_value": 8.0,
+                    "document_value": 8.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 1014.375,
+                    "document_value": 1014.375,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 51.5385,
+                    "document_value": 51.5385,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 52.071,
+                    "document_value": 52.071,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 59.5,
+                    "document_value": 59.5,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "government_logo": {
+            "type": "logo",
+            "symbol_difference_score": 0.0,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 28.8991,
+                    "document_value": 28.8991,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "component_count": {
+                    "template_value": 1.0,
+                    "document_value": 1.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 4424.0,
+                    "document_value": 4424.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 38.2898,
+                    "document_value": 38.2898,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 37.6147,
+                    "document_value": 37.6147,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 49.5283,
+                    "document_value": 49.5283,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                }
+            }
+        },
+        "holder_signature": {
+            "type": "signature",
+            "symbol_difference_score": 0.0,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 18.1557,
+                    "document_value": 18.1557,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "component_count": {
+                    "template_value": 7.0,
+                    "document_value": 7.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 1120.2857,
+                    "document_value": 1120.2857,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 56.7341,
+                    "document_value": 56.7341,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 35.6164,
+                    "document_value": 35.6164,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 60.177,
+                    "document_value": 60.177,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                }
+            }
+        },
+        "security_mark": {
+            "type": "security_feature",
+            "symbol_difference_score": 0.0,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 35.8636,
+                    "document_value": 35.8636,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "component_count": {
+                    "template_value": 4.0,
+                    "document_value": 4.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "mean_component_area": {
+                    "template_value": 752.5,
+                    "document_value": 752.5,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 12.1424,
+                    "document_value": 12.1424,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 54.4379,
+                    "document_value": 54.4379,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 60.355,
+                    "document_value": 60.355,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                }
+            }
+        },
+        "official_signature": {
+            "type": "signature",
+            "symbol_difference_score": 0.0,
+            "feature_comparisons": {
+                "foreground_ratio": {
+                    "template_value": 21.6237,
+                    "document_value": 21.6237,
+                    "difference_percent": 0.0,
+                    "weight": 0.25
+                },
+                "component_count": {
+                    "template_value": 5.0,
+                    "document_value": 5.0,
+                    "difference_percent": 0.0,
+                    "weight": 0.1
+                },
+                "mean_component_area": {
+                    "template_value": 2302.2,
+                    "document_value": 2302.2,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "bounding_box_ratio": {
+                    "template_value": 80.0605,
+                    "document_value": 80.0605,
+                    "difference_percent": 0.0,
+                    "weight": 0.2
+                },
+                "centre_x_ratio": {
+                    "template_value": 48.1172,
+                    "document_value": 48.1172,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                },
+                "centre_y_ratio": {
+                    "template_value": 58.4034,
+                    "document_value": 58.4034,
+                    "difference_percent": 0.0,
+                    "weight": 0.15
+                }
+            }
+        }
+    },
+    "ranked_candidate_regions": [
+        {
+            "region": "flag",
+            "type": "logo",
+            "symbol_difference_score": 0.0
+        },
+        {
+            "region": "government_logo",
+            "type": "logo",
+            "symbol_difference_score": 0.0
+        },
+        {
+            "region": "holder_signature",
+            "type": "signature",
+            "symbol_difference_score": 0.0
+        },
+        {
+            "region": "security_mark",
+            "type": "security_feature",
+            "symbol_difference_score": 0.0
+        },
+        {
+            "region": "official_signature",
+            "type": "signature",
+            "symbol_difference_score": 0.0
+        }
+    ],
+    "average_symbol_difference_score": 0.0
+}

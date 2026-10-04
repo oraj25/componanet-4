@@ -1,0 +1,132 @@
+{
+    "document_type": "NIC",
+    "source_image": "nic_template_v1_normalized.png",
+    "regions": {
+        "government_logo": {
+            "type": "logo",
+            "features": {
+                "width": 167,
+                "height": 114,
+                "total_pixels": 19038,
+                "mean_brightness": 137.9434,
+                "brightness_stddev": 39.8713,
+                "dark_pixel_ratio": 12.6221,
+                "bright_pixel_ratio": 0.0,
+                "neighbour_difference": 4.7528,
+                "block_count": 88,
+                "block_mean_average": 138.8081,
+                "block_mean_stddev": 32.9367,
+                "min_block_mean": 47.9023,
+                "max_block_mean": 181.0625
+            }
+        },
+        "photo": {
+            "type": "photo",
+            "features": {
+                "width": 334,
+                "height": 354,
+                "total_pixels": 118236,
+                "mean_brightness": 119.9488,
+                "brightness_stddev": 56.8783,
+                "dark_pixel_ratio": 34.3821,
+                "bright_pixel_ratio": 0.0101,
+                "neighbour_difference": 2.195,
+                "block_count": 483,
+                "block_mean_average": 122.0592,
+                "block_mean_stddev": 53.7434,
+                "min_block_mean": 9.25,
+                "max_block_mean": 195.625
+            }
+        },
+        "nic_number": {
+            "type": "text",
+            "features": {
+                "width": 407,
+                "height": 82,
+                "total_pixels": 33374,
+                "mean_brightness": 158.1761,
+                "brightness_stddev": 41.981,
+                "dark_pixel_ratio": 10.0378,
+                "bright_pixel_ratio": 0.0,
+                "neighbour_difference": 6.8313,
+                "block_count": 156,
+                "block_mean_average": 159.4825,
+                "block_mean_stddev": 29.2258,
+                "min_block_mean": 92.793,
+                "max_block_mean": 190.4219
+            }
+        },
+        "name": {
+            "type": "text",
+            "features": {
+                "width": 522,
+                "height": 108,
+                "total_pixels": 56376,
+                "mean_brightness": 167.374,
+                "brightness_stddev": 29.1877,
+                "dark_pixel_ratio": 3.9024,
+                "bright_pixel_ratio": 0.0,
+                "neighbour_difference": 4.1042,
+                "block_count": 231,
+                "block_mean_average": 167.8901,
+                "block_mean_stddev": 22.3736,
+                "min_block_mean": 54.2031,
+                "max_block_mean": 187.2266
+            }
+        },
+        "sex": {
+            "type": "text",
+            "features": {
+                "width": 584,
+                "height": 76,
+                "total_pixels": 44384,
+                "mean_brightness": 164.4638,
+                "brightness_stddev": 32.7079,
+                "dark_pixel_ratio": 5.7971,
+                "bright_pixel_ratio": 0.0,
+                "neighbour_difference": 4.6603,
+                "block_count": 185,
+                "block_mean_average": 165.161,
+                "block_mean_stddev": 22.8997,
+                "min_block_mean": 51.0078,
+                "max_block_mean": 189.7969
+            }
+        },
+        "date_of_birth": {
+            "type": "text",
+            "features": {
+                "width": 574,
+                "height": 70,
+                "total_pixels": 40180,
+                "mean_brightness": 169.6183,
+                "brightness_stddev": 24.9728,
+                "dark_pixel_ratio": 2.5485,
+                "bright_pixel_ratio": 0.0,
+                "neighbour_difference": 4.2719,
+                "block_count": 180,
+                "block_mean_average": 170.9582,
+                "block_mean_stddev": 16.6422,
+                "min_block_mean": 107.0859,
+                "max_block_mean": 191.0078
+            }
+        },
+        "holder_signature": {
+            "type": "signature",
+            "features": {
+                "width": 313,
+                "height": 69,
+                "total_pixels": 21597,
+                "mean_brightness": 179.3695,
+                "brightness_stddev": 14.3892,
+                "dark_pixel_ratio": 0.0,
+                "bright_pixel_ratio": 0.0,
+                "neighbour_difference": 2.1,
+                "block_count": 100,
+                "block_mean_average": 179.7178,
+                "block_mean_stddev": 10.4782,
+                "min_block_mean": 144.5391,
+                "max_block_mean": 190.7639
+            }
+        }
+    }
+}

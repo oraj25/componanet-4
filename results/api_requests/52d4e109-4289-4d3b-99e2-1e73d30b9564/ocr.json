@@ -1,0 +1,85 @@
+{
+    "documentType": "National_Identity_Card",
+    "fullText": "o0 SRI LANKA\nNATIONAL IDENTITY CARD\neoD a./No.: 200229900760\nName\nOMAL RAJ WIJETUNGA\ncdS gou oD /ur / Sex : got UT Male\ncus oo Lpbgs a| Date of Birth: 2002/10r25\ncústosd eswo lo,y'unan esuQurnnD /Holder's Signature",
+    "lines": [
+        {
+            "text": "o0 SRI LANKA",
+            "boundingBox": {
+                "left": 568,
+                "top": 533,
+                "right": 740,
+                "bottom": 558
+            }
+        },
+        {
+            "text": "NATIONAL IDENTITY CARD",
+            "boundingBox": {
+                "left": 777,
+                "top": 539,
+                "right": 1144,
+                "bottom": 563
+            }
+        },
+        {
+            "text": "eoD a./No.: 200229900760",
+            "boundingBox": {
+                "left": 778,
+                "top": 569,
+                "right": 1207,
+                "bottom": 602
+            }
+        },
+        {
+            "text": "Name",
+            "boundingBox": {
+                "left": 819,
+                "top": 796,
+                "right": 871,
+                "bottom": 814
+            }
+        },
+        {
+            "text": "OMAL RAJ WIJETUNGA",
+            "boundingBox": {
+                "left": 897,
+                "top": 806,
+                "right": 1106,
+                "bottom": 830
+            }
+        },
+        {
+            "text": "cdS gou oD /ur / Sex : got UT Male",
+            "boundingBox": {
+                "left": 817,
+                "top": 881,
+                "right": 1364,
+                "bottom": 915
+            }
+        },
+        {
+            "text": "cus oo Lpbgs a| Date of Birth: 2002/10r25",
+            "boundingBox": {
+                "left": 815,
+                "top": 921,
+                "right": 1313,
+                "bottom": 957
+            }
+        },
+        {
+            "text": "cústosd eswo lo,y'unan esuQurnnD /Holder's Signature",
+            "boundingBox": {
+                "left": 532,
+                "top": 969,
+                "right": 1135,
+                "bottom": 1002
+            }
+        }
+    ],
+    "fields": {
+        "nicNumber": "200229900760",
+        "licenceNumber": null,
+        "bloodGroup": null,
+        "possibleName": "OMAL RAJ WIJETUNGA",
+        "dates": []
+    }
+}

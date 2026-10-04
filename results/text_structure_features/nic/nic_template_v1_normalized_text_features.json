@@ -1,0 +1,75 @@
+{
+    "document_type": "NIC",
+    "document": "nic_template_v1_normalized",
+    "source_image": "nic_template_v1_normalized.png",
+    "regions": {
+        "nic_number": {
+            "type": "text",
+            "features": {
+                "component_count": 25,
+                "line_count": 4,
+                "mean_component_width": 19.24,
+                "component_width_stddev": 18.3484,
+                "mean_component_height": 13.8,
+                "component_height_stddev": 8.5229,
+                "mean_horizontal_gap": 12.0526,
+                "horizontal_gap_stddev": 26.0131,
+                "baseline_stddev": 1.8383,
+                "foreground_ratio": 13.8671,
+                "threshold": 118
+            },
+            "component_preview": "nic_number_components.png"
+        },
+        "name": {
+            "type": "text",
+            "features": {
+                "component_count": 12,
+                "line_count": 3,
+                "mean_component_width": 22.5,
+                "component_width_stddev": 33.1901,
+                "mean_component_height": 10.3333,
+                "component_height_stddev": 5.9489,
+                "mean_horizontal_gap": 4.1429,
+                "horizontal_gap_stddev": 2.5314,
+                "baseline_stddev": 1.1493,
+                "foreground_ratio": 4.7095,
+                "threshold": 111
+            },
+            "component_preview": "name_components.png"
+        },
+        "sex": {
+            "type": "text",
+            "features": {
+                "component_count": 33,
+                "line_count": 2,
+                "mean_component_width": 12.5152,
+                "component_width_stddev": 15.7502,
+                "mean_component_height": 12.4848,
+                "component_height_stddev": 8.2135,
+                "mean_horizontal_gap": 7.8,
+                "horizontal_gap_stddev": 6.735,
+                "baseline_stddev": 2.2264,
+                "foreground_ratio": 9.6634,
+                "threshold": 124
+            },
+            "component_preview": "sex_components.png"
+        },
+        "date_of_birth": {
+            "type": "text",
+            "features": {
+                "component_count": 29,
+                "line_count": 3,
+                "mean_component_width": 17.1379,
+                "component_width_stddev": 21.0479,
+                "mean_component_height": 12.5517,
+                "component_height_stddev": 7.4906,
+                "mean_horizontal_gap": 19.2083,
+                "horizontal_gap_stddev": 49.2214,
+                "baseline_stddev": 2.0061,
+                "foreground_ratio": 11.3987,
+                "threshold": 143
+            },
+            "component_preview": "date_of_birth_components.png"
+        }
+    }
+}

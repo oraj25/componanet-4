@@ -1,0 +1,168 @@
+{
+    "candidate_threshold": 75.881,
+    "suspicious_area_count": 18,
+    "suspicious_areas": [
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 92.0888,
+            "x1": 919,
+            "y1": 500,
+            "x2": 935,
+            "y2": 516
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 90.1909,
+            "x1": 951,
+            "y1": 500,
+            "x2": 981,
+            "y2": 548
+        },
+        {
+            "region": "sex",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 87.3971,
+            "x1": 909,
+            "y1": 443,
+            "x2": 981,
+            "y2": 519
+        },
+        {
+            "region": "name",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 87.1932,
+            "x1": 893,
+            "y1": 348,
+            "x2": 919,
+            "y2": 456
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 86.2801,
+            "x1": 919,
+            "y1": 548,
+            "x2": 935,
+            "y2": 570
+        },
+        {
+            "region": "sex",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 85.707,
+            "x1": 701,
+            "y1": 475,
+            "x2": 781,
+            "y2": 507
+        },
+        {
+            "region": "sex",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 84.7034,
+            "x1": 829,
+            "y1": 475,
+            "x2": 877,
+            "y2": 491
+        },
+        {
+            "region": "nic_number",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 83.6574,
+            "x1": 852,
+            "y1": 114,
+            "x2": 964,
+            "y2": 194
+        },
+        {
+            "region": "name",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 82.6015,
+            "x1": 765,
+            "y1": 444,
+            "x2": 781,
+            "y2": 456
+        },
+        {
+            "region": "sex",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 82.2948,
+            "x1": 397,
+            "y1": 443,
+            "x2": 509,
+            "y2": 507
+        },
+        {
+            "region": "name",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 82.1787,
+            "x1": 397,
+            "y1": 348,
+            "x2": 717,
+            "y2": 456
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 80.6744,
+            "x1": 423,
+            "y1": 516,
+            "x2": 727,
+            "y2": 564
+        },
+        {
+            "region": "nic_number",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 80.2169,
+            "x1": 820,
+            "y1": 178,
+            "x2": 836,
+            "y2": 194
+        },
+        {
+            "region": "sex",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 78.4669,
+            "x1": 541,
+            "y1": 475,
+            "x2": 605,
+            "y2": 507
+        },
+        {
+            "region": "nic_number",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 78.0917,
+            "x1": 596,
+            "y1": 146,
+            "x2": 724,
+            "y2": 178
+        },
+        {
+            "region": "sex",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 76.7868,
+            "x1": 653,
+            "y1": 475,
+            "x2": 685,
+            "y2": 507
+        },
+        {
+            "region": "date_of_birth",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 76.4806,
+            "x1": 855,
+            "y1": 532,
+            "x2": 871,
+            "y2": 548
+        },
+        {
+            "region": "nic_number",
+            "reason": "Local text/background/edge inconsistency",
+            "score": 76.086,
+            "x1": 740,
+            "y1": 146,
+            "x2": 756,
+            "y2": 162
+        }
+    ]
+}

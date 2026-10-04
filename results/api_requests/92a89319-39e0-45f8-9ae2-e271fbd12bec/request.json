@@ -1,0 +1,11 @@
+{
+    "document_id": "92a89319-39e0-45f8-9ae2-e271fbd12bec",
+    "android_document_type": "National_Identity_Card",
+    "internal_document_type": "NIC",
+    "received_at": "2026-09-14T16:29:33.587109+00:00",
+    "image_file": "captured_document.jpg",
+    "image_size_bytes": 719309,
+    "ocr_available": true,
+    "ocr_line_count": 14,
+    "analysis_supported": true
+}

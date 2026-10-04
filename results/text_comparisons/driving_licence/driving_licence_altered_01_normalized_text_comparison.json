@@ -1,0 +1,367 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "template": "driving_licence_template_v1_normalized",
+    "document": "driving_licence_altered_01_normalized",
+    "regions": {
+        "licence_number": {
+            "text_structure_difference_score": 48.0306,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 11.4211,
+                    "document_value": 17.125,
+                    "difference_percent": 49.9418,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 7.2425,
+                    "document_value": 6.0402,
+                    "difference_percent": 16.6006,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 9.8421,
+                    "document_value": 14.6875,
+                    "difference_percent": 49.2314,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 8.6,
+                    "document_value": 3.4286,
+                    "difference_percent": 60.1326,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 8.4758,
+                    "document_value": 2.8212,
+                    "difference_percent": 66.7146,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 0.2485,
+                    "document_value": 0.4046,
+                    "difference_percent": 15.61,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 7.8772,
+                    "document_value": 15.4311,
+                    "difference_percent": 95.8957,
+                    "weight": 0.1
+                }
+            }
+        },
+        "nic_number": {
+            "text_structure_difference_score": 41.6827,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 10.2857,
+                    "document_value": 16.8571,
+                    "difference_percent": 63.8887,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 7.8142,
+                    "document_value": 7.605,
+                    "difference_percent": 2.6772,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 36.5714,
+                    "document_value": 33.4286,
+                    "difference_percent": 8.5936,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 9.75,
+                    "document_value": 2.2,
+                    "difference_percent": 77.4359,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 8.9268,
+                    "document_value": 1.4697,
+                    "difference_percent": 83.5361,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 0.1443,
+                    "document_value": 0.0,
+                    "difference_percent": 14.43,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 16.9354,
+                    "document_value": 14.1602,
+                    "difference_percent": 16.387,
+                    "weight": 0.1
+                }
+            }
+        },
+        "name": {
+            "text_structure_difference_score": 29.1023,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 11.5652,
+                    "document_value": 11.8846,
+                    "difference_percent": 2.7617,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 3.3985,
+                    "document_value": 5.5493,
+                    "difference_percent": 63.2867,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 9.2609,
+                    "document_value": 10.6538,
+                    "difference_percent": 15.0407,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 4.5238,
+                    "document_value": 3.4783,
+                    "difference_percent": 23.1111,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 5.2064,
+                    "document_value": 2.9023,
+                    "difference_percent": 44.2551,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 0.5,
+                    "document_value": 0.9765,
+                    "difference_percent": 47.65,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 10.9383,
+                    "document_value": 9.4533,
+                    "difference_percent": 13.5761,
+                    "weight": 0.1
+                }
+            }
+        },
+        "address": {
+            "text_structure_difference_score": 47.5989,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 10.9778,
+                    "document_value": 12.5,
+                    "difference_percent": 13.8662,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 1.626,
+                    "document_value": 3.9743,
+                    "difference_percent": 100.0,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 8.9778,
+                    "document_value": 19.9545,
+                    "difference_percent": 100.0,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 2.6905,
+                    "document_value": 3.4737,
+                    "difference_percent": 29.1098,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 4.2454,
+                    "document_value": 3.2826,
+                    "difference_percent": 22.6787,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 0.8785,
+                    "document_value": 0.4886,
+                    "difference_percent": 38.99,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 9.1491,
+                    "document_value": 14.5355,
+                    "difference_percent": 58.8736,
+                    "weight": 0.1
+                }
+            }
+        },
+        "date_of_birth": {
+            "text_structure_difference_score": 72.0374,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 13.6667,
+                    "document_value": 9.2857,
+                    "difference_percent": 32.056,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 5.6026,
+                    "document_value": 5.885,
+                    "difference_percent": 5.0405,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 9.1667,
+                    "document_value": 18.2143,
+                    "difference_percent": 98.7007,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 5.2727,
+                    "document_value": 16.3636,
+                    "difference_percent": 100.0,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 3.1935,
+                    "document_value": 11.9565,
+                    "difference_percent": 100.0,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 1.1149,
+                    "document_value": 0.0,
+                    "difference_percent": 100.0,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 5.6983,
+                    "document_value": 12.8811,
+                    "difference_percent": 100.0,
+                    "weight": 0.1
+                }
+            }
+        },
+        "date_field": {
+            "text_structure_difference_score": 30.8765,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 14.75,
+                    "document_value": 11.2727,
+                    "difference_percent": 23.5749,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 5.4943,
+                    "document_value": 4.5245,
+                    "difference_percent": 17.651,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 10.4167,
+                    "document_value": 12.3636,
+                    "difference_percent": 18.6902,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 5.1818,
+                    "document_value": 3.9,
+                    "difference_percent": 24.7366,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 2.9793,
+                    "document_value": 3.5903,
+                    "difference_percent": 20.5082,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 1.3819,
+                    "document_value": 0.6495,
+                    "difference_percent": 52.9995,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 7.3247,
+                    "document_value": 12.2299,
+                    "difference_percent": 66.9679,
+                    "weight": 0.1
+                }
+            }
+        },
+        "blood_group": {
+            "text_structure_difference_score": 63.1673,
+            "feature_comparisons": {
+                "mean_component_height": {
+                    "template_value": 13.5,
+                    "document_value": 7.4,
+                    "difference_percent": 45.1852,
+                    "weight": 0.2
+                },
+                "component_height_stddev": {
+                    "template_value": 14.1421,
+                    "document_value": 6.031,
+                    "difference_percent": 57.3543,
+                    "weight": 0.15
+                },
+                "mean_component_width": {
+                    "template_value": 17.25,
+                    "document_value": 13.4,
+                    "difference_percent": 22.3188,
+                    "weight": 0.1
+                },
+                "mean_horizontal_gap": {
+                    "template_value": 7.5,
+                    "document_value": 50.4,
+                    "difference_percent": 100.0,
+                    "weight": 0.2
+                },
+                "horizontal_gap_stddev": {
+                    "template_value": 3.2016,
+                    "document_value": 37.3047,
+                    "difference_percent": 100.0,
+                    "weight": 0.1
+                },
+                "baseline_stddev": {
+                    "template_value": 5.1745,
+                    "document_value": 1.6711,
+                    "difference_percent": 67.7051,
+                    "weight": 0.15
+                },
+                "foreground_ratio": {
+                    "template_value": 42.528,
+                    "document_value": 55.8794,
+                    "difference_percent": 31.3944,
+                    "weight": 0.1
+                }
+            }
+        }
+    },
+    "ranked_candidate_regions": [
+        {
+            "region": "date_of_birth",
+            "text_structure_difference_score": 72.0374
+        },
+        {
+            "region": "blood_group",
+            "text_structure_difference_score": 63.1673
+        },
+        {
+            "region": "licence_number",
+            "text_structure_difference_score": 48.0306
+        },
+        {
+            "region": "address",
+            "text_structure_difference_score": 47.5989
+        },
+        {
+            "region": "nic_number",
+            "text_structure_difference_score": 41.6827
+        },
+        {
+            "region": "date_field",
+            "text_structure_difference_score": 30.8765
+        },
+        {
+            "region": "name",
+            "text_structure_difference_score": 29.1023
+        }
+    ],
+    "average_text_structure_difference_score": 47.4994
+}

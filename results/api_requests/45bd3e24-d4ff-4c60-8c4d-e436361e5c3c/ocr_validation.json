@@ -1,0 +1,26 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "status": "REVIEW",
+    "issue_count": 1,
+    "image_width": 1920,
+    "image_height": 1080,
+    "ocr_text_present": true,
+    "ocr_line_count": 15,
+    "validated_fields": {
+        "nic_number": null,
+        "licence_number": "B6200049",
+        "possible_name": null,
+        "dates": [
+            "25.10.2002",
+            "18.12.2025"
+        ],
+        "blood_group": null
+    },
+    "issues": [
+        {
+            "code": "NAME_MISSING",
+            "field": "possibleName",
+            "message": "Name was not identified on the driving licence."
+        }
+    ]
+}

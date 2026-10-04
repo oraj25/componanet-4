@@ -1,0 +1,65 @@
+{
+    "government_logo": {
+        "type": "logo",
+        "x1": 63,
+        "y1": 19,
+        "x2": 230,
+        "y2": 133,
+        "template_file": "results\\pipeline_test\\nic_altered\\regions\\template\\government_logo.png",
+        "document_file": "results\\pipeline_test\\nic_altered\\regions\\document\\government_logo.png"
+    },
+    "photo": {
+        "type": "photo",
+        "x1": 42,
+        "y1": 171,
+        "x2": 376,
+        "y2": 525,
+        "template_file": "results\\pipeline_test\\nic_altered\\regions\\template\\photo.png",
+        "document_file": "results\\pipeline_test\\nic_altered\\regions\\document\\photo.png"
+    },
+    "nic_number": {
+        "type": "text",
+        "x1": 564,
+        "y1": 114,
+        "x2": 971,
+        "y2": 196,
+        "template_file": "results\\pipeline_test\\nic_altered\\regions\\template\\nic_number.png",
+        "document_file": "results\\pipeline_test\\nic_altered\\regions\\document\\nic_number.png"
+    },
+    "name": {
+        "type": "text",
+        "x1": 397,
+        "y1": 348,
+        "x2": 919,
+        "y2": 456,
+        "template_file": "results\\pipeline_test\\nic_altered\\regions\\template\\name.png",
+        "document_file": "results\\pipeline_test\\nic_altered\\regions\\document\\name.png"
+    },
+    "sex": {
+        "type": "text",
+        "x1": 397,
+        "y1": 443,
+        "x2": 981,
+        "y2": 519,
+        "template_file": "results\\pipeline_test\\nic_altered\\regions\\template\\sex.png",
+        "document_file": "results\\pipeline_test\\nic_altered\\regions\\document\\sex.png"
+    },
+    "date_of_birth": {
+        "type": "text",
+        "x1": 407,
+        "y1": 500,
+        "x2": 981,
+        "y2": 570,
+        "template_file": "results\\pipeline_test\\nic_altered\\regions\\template\\date_of_birth.png",
+        "document_file": "results\\pipeline_test\\nic_altered\\regions\\document\\date_of_birth.png"
+    },
+    "holder_signature": {
+        "type": "signature",
+        "x1": 679,
+        "y1": 551,
+        "x2": 992,
+        "y2": 620,
+        "template_file": "results\\pipeline_test\\nic_altered\\regions\\template\\holder_signature.png",
+        "document_file": "results\\pipeline_test\\nic_altered\\regions\\document\\holder_signature.png"
+    }
+}

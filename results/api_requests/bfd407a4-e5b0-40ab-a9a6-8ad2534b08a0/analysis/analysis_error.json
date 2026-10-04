@@ -1,0 +1,4 @@
+{
+    "status": "ERROR",
+    "error": "cannot access local variable 'ocr_validation' where it is not associated with a value"
+}

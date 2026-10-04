@@ -1,0 +1,85 @@
+{
+    "documentType": "National_Identity_Card",
+    "fullText": "NATIONAL IDENTITY CARD\n200229900760\nf1o SRI LANKA\nNarne OMAL RAS WIJETUNGA\n2002/1025\nCos a |iptD fug | Date of Birth :\n(Smal\nooonos qosol nbfynnendt afusiso /Holder's Sigature",
+    "lines": [
+        {
+            "text": "NATIONAL IDENTITY CARD",
+            "boundingBox": {
+                "left": 766,
+                "top": 429,
+                "right": 793,
+                "bottom": 747
+            }
+        },
+        {
+            "text": "200229900760",
+            "boundingBox": {
+                "left": 794,
+                "top": 375,
+                "right": 821,
+                "bottom": 548
+            }
+        },
+        {
+            "text": "f1o SRI LANKA",
+            "boundingBox": {
+                "left": 770,
+                "top": 786,
+                "right": 793,
+                "bottom": 931
+            }
+        },
+        {
+            "text": "Narne OMAL RAS WIJETUNGA",
+            "boundingBox": {
+                "left": 995,
+                "top": 463,
+                "right": 1025,
+                "bottom": 707
+            }
+        },
+        {
+            "text": "2002/1025",
+            "boundingBox": {
+                "left": 1109,
+                "top": 274,
+                "right": 1128,
+                "bottom": 368
+            }
+        },
+        {
+            "text": "Cos a |iptD fug | Date of Birth :",
+            "boundingBox": {
+                "left": 1103,
+                "top": 396,
+                "right": 1127,
+                "bottom": 709
+            }
+        },
+        {
+            "text": "(Smal",
+            "boundingBox": {
+                "left": 1138,
+                "top": 304,
+                "right": 1175,
+                "bottom": 390
+            }
+        },
+        {
+            "text": "ooonos qosol nbfynnendt afusiso /Holder's Sigature",
+            "boundingBox": {
+                "left": 1149,
+                "top": 434,
+                "right": 1171,
+                "bottom": 965
+            }
+        }
+    ],
+    "fields": {
+        "nicNumber": "200229900760",
+        "licenceNumber": null,
+        "bloodGroup": null,
+        "possibleName": null,
+        "dates": []
+    }
+}

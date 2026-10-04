@@ -1,0 +1,12 @@
+{
+    "status": "CROPPED",
+    "bounds": [
+        0,
+        0,
+        1920,
+        1080
+    ],
+    "width": 1920,
+    "height": 1080,
+    "output": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\preprocessing\\cropped_document.png"
+}

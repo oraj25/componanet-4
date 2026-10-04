@@ -1,0 +1,254 @@
+{
+    "document_type": "DRIVING_LICENCE",
+    "document": "driving_licence_genuine_01_normalized",
+    "source_image": "driving_licence_genuine_01_normalized.png",
+    "regions": {
+        "flag": {
+            "type": "logo",
+            "features": {
+                "width": 169,
+                "height": 100,
+                "border_thickness": 8,
+                "edge_count": 2582,
+                "edge_ratio": 15.7766,
+                "border_edge_ratio": 6.2038,
+                "centre_edge_ratio": 18.394,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 18.6484,
+                "mean_edge_strength": 136.1189,
+                "edge_threshold": 89.532
+            },
+            "edge_map": "flag_edges.png"
+        },
+        "government_logo": {
+            "type": "logo",
+            "features": {
+                "width": 109,
+                "height": 106,
+                "border_thickness": 8,
+                "edge_count": 1348,
+                "edge_ratio": 12.1136,
+                "border_edge_ratio": 0.0,
+                "centre_edge_ratio": 16.1051,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 0.0,
+                "mean_edge_strength": 106.7005,
+                "edge_threshold": 63.2823
+            },
+            "edge_map": "government_logo_edges.png"
+        },
+        "photo": {
+            "type": "photo",
+            "features": {
+                "width": 268,
+                "height": 307,
+                "border_thickness": 21,
+                "edge_count": 5090,
+                "edge_ratio": 6.2739,
+                "border_edge_ratio": 2.1092,
+                "centre_edge_ratio": 7.7509,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 6.5902,
+                "top_edge_ratio": 1.4098,
+                "bottom_edge_ratio": 0.0376,
+                "mean_edge_strength": 125.2828,
+                "edge_threshold": 54.0925
+            },
+            "edge_map": "photo_edges.png"
+        },
+        "licence_number": {
+            "type": "text",
+            "features": {
+                "width": 278,
+                "height": 69,
+                "border_thickness": 6,
+                "edge_count": 2052,
+                "edge_ratio": 11.0967,
+                "border_edge_ratio": 7.7778,
+                "centre_edge_ratio": 11.8256,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 0.3623,
+                "bottom_edge_ratio": 18.4058,
+                "mean_edge_strength": 389.5422,
+                "edge_threshold": 187.0977
+            },
+            "edge_map": "licence_number_edges.png"
+        },
+        "nic_number": {
+            "type": "text",
+            "features": {
+                "width": 258,
+                "height": 75,
+                "border_thickness": 6,
+                "edge_count": 2436,
+                "edge_ratio": 13.0351,
+                "border_edge_ratio": 1.2226,
+                "centre_edge_ratio": 15.4665,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 3.0469,
+                "mean_edge_strength": 182.7933,
+                "edge_threshold": 105.4464
+            },
+            "edge_map": "nic_number_edges.png"
+        },
+        "name": {
+            "type": "text",
+            "features": {
+                "width": 378,
+                "height": 75,
+                "border_thickness": 6,
+                "edge_count": 3709,
+                "edge_ratio": 13.5128,
+                "border_edge_ratio": 23.508,
+                "centre_edge_ratio": 11.6099,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 15.1064,
+                "bottom_edge_ratio": 39.7872,
+                "mean_edge_strength": 353.6894,
+                "edge_threshold": 193.7537
+            },
+            "edge_map": "name_edges.png"
+        },
+        "address": {
+            "type": "text",
+            "features": {
+                "width": 427,
+                "height": 75,
+                "border_thickness": 6,
+                "edge_count": 3919,
+                "edge_ratio": 12.6317,
+                "border_edge_ratio": 0.0,
+                "centre_edge_ratio": 14.9895,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 0.0,
+                "mean_edge_strength": 279.7047,
+                "edge_threshold": 149.376
+            },
+            "edge_map": "address_edges.png"
+        },
+        "date_of_birth": {
+            "type": "text",
+            "features": {
+                "width": 278,
+                "height": 63,
+                "border_thickness": 5,
+                "edge_count": 1477,
+                "edge_ratio": 8.7729,
+                "border_edge_ratio": 0.0,
+                "centre_edge_ratio": 10.3985,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 0.0,
+                "mean_edge_strength": 279.4595,
+                "edge_threshold": 123.5497
+            },
+            "edge_map": "date_of_birth_edges.png"
+        },
+        "date_field": {
+            "type": "text",
+            "features": {
+                "width": 288,
+                "height": 63,
+                "border_thickness": 5,
+                "edge_count": 1598,
+                "edge_ratio": 9.1597,
+                "border_edge_ratio": 0.0,
+                "centre_edge_ratio": 10.8457,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 0.0,
+                "mean_edge_strength": 208.3234,
+                "edge_threshold": 96.5768
+            },
+            "edge_map": "date_field_edges.png"
+        },
+        "blood_group": {
+            "type": "text",
+            "features": {
+                "width": 299,
+                "height": 63,
+                "border_thickness": 5,
+                "edge_count": 1729,
+                "edge_ratio": 9.5435,
+                "border_edge_ratio": 0.0,
+                "centre_edge_ratio": 11.2881,
+                "left_edge_ratio": 0.0,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 0.0,
+                "mean_edge_strength": 165.2734,
+                "edge_threshold": 78.7837
+            },
+            "edge_map": "blood_group_edges.png"
+        },
+        "holder_signature": {
+            "type": "signature",
+            "features": {
+                "width": 219,
+                "height": 113,
+                "border_thickness": 9,
+                "edge_count": 2926,
+                "edge_ratio": 12.1476,
+                "border_edge_ratio": 5.3686,
+                "centre_edge_ratio": 13.9199,
+                "left_edge_ratio": 2.4775,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 15.0922,
+                "mean_edge_strength": 102.2753,
+                "edge_threshold": 59.1824
+            },
+            "edge_map": "holder_signature_edges.png"
+        },
+        "security_mark": {
+            "type": "security_feature",
+            "features": {
+                "width": 169,
+                "height": 169,
+                "border_thickness": 14,
+                "edge_count": 2348,
+                "edge_ratio": 8.4191,
+                "border_edge_ratio": 3.6963,
+                "centre_edge_ratio": 10.3214,
+                "left_edge_ratio": 9.8111,
+                "right_edge_ratio": 0.0,
+                "top_edge_ratio": 1.7964,
+                "bottom_edge_ratio": 2.1649,
+                "mean_edge_strength": 59.3869,
+                "edge_threshold": 40
+            },
+            "edge_map": "security_mark_edges.png"
+        },
+        "official_signature": {
+            "type": "signature",
+            "features": {
+                "width": 239,
+                "height": 119,
+                "border_thickness": 10,
+                "edge_count": 3736,
+                "edge_ratio": 13.4733,
+                "border_edge_ratio": 11.789,
+                "centre_edge_ratio": 13.9431,
+                "left_edge_ratio": 9.7816,
+                "right_edge_ratio": 1.6144,
+                "top_edge_ratio": 0.0,
+                "bottom_edge_ratio": 29.864,
+                "mean_edge_strength": 116.9982,
+                "edge_threshold": 71.7275
+            },
+            "edge_map": "official_signature_edges.png"
+        }
+    }
+}

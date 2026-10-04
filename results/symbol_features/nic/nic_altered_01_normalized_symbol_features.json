@@ -1,0 +1,33 @@
+{
+    "document_type": "NIC",
+    "document": "nic_altered_01_normalized",
+    "source_image": "nic_altered_01_normalized.png",
+    "regions": {
+        "government_logo": {
+            "type": "logo",
+            "features": {
+                "foreground_ratio": 30.0872,
+                "component_count": 14,
+                "mean_component_area": 690.5714,
+                "bounding_box_ratio": 71.5254,
+                "centre_x_ratio": 54.1916,
+                "centre_y_ratio": 55.7018,
+                "threshold": 173
+            },
+            "preview": "government_logo_analysis.png"
+        },
+        "holder_signature": {
+            "type": "signature",
+            "features": {
+                "foreground_ratio": 46.3027,
+                "component_count": 1,
+                "mean_component_area": 10329.0,
+                "bounding_box_ratio": 47.8261,
+                "centre_x_ratio": 50.0,
+                "centre_y_ratio": 23.913,
+                "threshold": 232
+            },
+            "preview": "holder_signature_analysis.png"
+        }
+    }
+}

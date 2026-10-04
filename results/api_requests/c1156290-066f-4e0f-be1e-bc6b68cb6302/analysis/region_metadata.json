@@ -1,0 +1,119 @@
+{
+    "flag": {
+        "type": "logo",
+        "x1": 60,
+        "y1": 19,
+        "x2": 229,
+        "y2": 119,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\flag.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\flag.png"
+    },
+    "government_logo": {
+        "type": "logo",
+        "x1": 816,
+        "y1": 13,
+        "x2": 925,
+        "y2": 119,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\government_logo.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\government_logo.png"
+    },
+    "photo": {
+        "type": "photo",
+        "x1": 40,
+        "y1": 163,
+        "x2": 308,
+        "y2": 470,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\photo.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\photo.png"
+    },
+    "licence_number": {
+        "type": "text",
+        "x1": 289,
+        "y1": 113,
+        "x2": 567,
+        "y2": 182,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\licence_number.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\licence_number.png"
+    },
+    "nic_number": {
+        "type": "text",
+        "x1": 687,
+        "y1": 107,
+        "x2": 945,
+        "y2": 182,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\nic_number.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\nic_number.png"
+    },
+    "name": {
+        "type": "text",
+        "x1": 269,
+        "y1": 176,
+        "x2": 647,
+        "y2": 251,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\name.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\name.png"
+    },
+    "address": {
+        "type": "text",
+        "x1": 279,
+        "y1": 232,
+        "x2": 706,
+        "y2": 307,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\address.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\address.png"
+    },
+    "date_of_birth": {
+        "type": "text",
+        "x1": 279,
+        "y1": 307,
+        "x2": 557,
+        "y2": 370,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\date_of_birth.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\date_of_birth.png"
+    },
+    "date_field": {
+        "type": "text",
+        "x1": 279,
+        "y1": 376,
+        "x2": 567,
+        "y2": 439,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\date_field.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\date_field.png"
+    },
+    "blood_group": {
+        "type": "text",
+        "x1": 308,
+        "y1": 439,
+        "x2": 607,
+        "y2": 502,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\blood_group.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\blood_group.png"
+    },
+    "holder_signature": {
+        "type": "signature",
+        "x1": 60,
+        "y1": 483,
+        "x2": 279,
+        "y2": 596,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\holder_signature.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\holder_signature.png"
+    },
+    "security_mark": {
+        "type": "security_feature",
+        "x1": 776,
+        "y1": 251,
+        "x2": 945,
+        "y2": 420,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\security_mark.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\security_mark.png"
+    },
+    "official_signature": {
+        "type": "signature",
+        "x1": 716,
+        "y1": 477,
+        "x2": 955,
+        "y2": 596,
+        "template_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\template\\official_signature.png",
+        "document_file": "D:\\DocumentAlterationDetection\\results\\api_requests\\c1156290-066f-4e0f-be1e-bc6b68cb6302\\analysis\\regions\\document\\official_signature.png"
+    }
+}

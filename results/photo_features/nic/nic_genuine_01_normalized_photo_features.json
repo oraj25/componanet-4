@@ -1,0 +1,21 @@
+{
+    "document_type": "NIC",
+    "document": "nic_genuine_01_normalized",
+    "source_image": "nic_genuine_01_normalized.png",
+    "photo_region": {
+        "features": {
+            "width": 334,
+            "height": 354,
+            "border_size": 40,
+            "border_edge_ratio": 9.8164,
+            "border_mean_strength": 27.0934,
+            "left_edge_ratio": 21.3287,
+            "right_edge_ratio": 1.8211,
+            "top_edge_ratio": 7.8931,
+            "bottom_edge_ratio": 8.5032,
+            "border_side_stddev": 7.1039,
+            "edge_threshold": 62.903
+        },
+        "preview": "photo_border_analysis.png"
+    }
+}
